@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 from ..http import get
 from ..shows import Show
-from ._wlcr_common import local_date_from_doors, venue_name_from_logo_alt
+from ._wlcr_common import local_date_from_doors, venue_homepage, venue_name_from_logo_alt
 
 URL = "https://mississippistudios.com/"
 
@@ -21,9 +21,9 @@ def get_shows() -> list[Show]:
         if not (venue and title_el and doors_el):
             continue
         title = title_el.get_text(strip=True)
-        url = title_el.get("href")
+        ticket_url = title_el.get("href")
         date = local_date_from_doors(doors_el["data-event-doors"])
-        if not (url and date):
+        if not (ticket_url and date):
             continue
-        results.append(Show(venue=venue, title=title, date=date, url=url))
+        results.append(Show(venue=venue, title=title, date=date, url=venue_homepage(venue, ticket_url)))
     return results

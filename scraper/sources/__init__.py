@@ -1,4 +1,4 @@
-from . import rhp_events, tm_event, wlcr_aladdin, wlcr_mississippi, wlcr_revolution_hall, old_church
+from . import rhp_events, tm_event, wlcr_aladdin, wlcr_mississippi, wlcr_revolution_hall, old_church, the1905
 
 ALL_SOURCES = [
     rhp_events,
@@ -7,4 +7,5 @@ ALL_SOURCES = [
     wlcr_aladdin,
     tm_event,
     old_church,
+    the1905,
 ]

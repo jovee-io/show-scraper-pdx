@@ -1,233 +1,30 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Deer Tick",
-    "date": "2026-10-02",
-    "url": "https://www.etix.com/ticket/p/30641531/deer-tick-portland-aladdin-theater",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Carbon Leaf",
-    "date": "2026-10-02",
-    "url": "https://www.etix.com/ticket/p/71707615/carbon-leaf-portland-mississippi-studios",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Dairy Fest 2026: Milc & Friends",
-    "date": "2026-10-02",
-    "url": "https://www.etix.com/ticket/p/57139477/dairy-fest-2026milc-friends-portland-polaris-hall",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Punch Brothers",
-    "date": "2026-10-02",
-    "url": "https://www.etix.com/ticket/p/60183905/sold-outpunch-brothers-portland-revolution-hall",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "J. RODDY WALSTON\u00a0with The Upkeeps",
-    "date": "2026-10-02",
-    "url": "https://www.startheaterportland.com/tm-event/j-roddy-walston/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "SOLD OUT! Monqui Presents: Beth Orton and her Band w/ Kenny Stahl",
-    "date": "2026-10-02",
-    "url": "https://events.tocportland.org/theoldchurch/detail/793/1790994600000",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "EMEI \u2013 Night at the Opera Tour",
-    "date": "2026-10-02",
-    "url": "https://wonderballroom.com/event/emei-night-at-the-opera-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
-    "title": "Nick Hakim",
-    "date": "2026-10-03",
-    "url": "https://www.etix.com/ticket/p/57053944/nick-hakim-portland-aladdin-theater",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: YHWH Nailgun",
-    "date": "2026-10-03",
-    "url": "https://www.etix.com/ticket/p/68376126/sold-outyhwh-nailgun-portland-mississippi-studios",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: LEAP - Entropy World Tour",
-    "date": "2026-10-03",
-    "url": "https://www.etix.com/ticket/p/74153608/sold-outleap-entropy-world-tour-portland-polaris-hall",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Pete Holmes: The Pete Here Now Tour (Late Show)",
-    "date": "2026-10-03",
-    "url": "https://www.etix.com/ticket/p/79456066/pete-holmesthe-pete-here-now-tour-late-show-portland-revolution-hall",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Pete Holmes: The Pete Here Now Tour",
-    "date": "2026-10-03",
-    "url": "https://www.etix.com/ticket/p/93997073/sold-outpete-holmesthe-pete-here-now-tour-portland-revolution-hall",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "CANCELLED: DUA SALEH",
-    "date": "2026-10-03",
-    "url": "https://www.startheaterportland.com/tm-event/dua-saleh/",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "PAHUA with Colectivo Cenizas",
-    "date": "2026-10-03",
-    "url": "https://www.startheaterportland.com/tm-event/pahua/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Arjun K Verma w/ Indranil Mallick",
-    "date": "2026-10-03",
-    "url": "https://events.tocportland.org/theoldchurch/detail/871/1791081000000",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Los Thuthanaka",
-    "date": "2026-10-03",
-    "url": "https://wonderballroom.com/event/los-thuthanaka/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
-    "title": "Son Lux",
-    "date": "2026-10-04",
-    "url": "https://www.etix.com/ticket/p/44369521/son-lux-portland-aladdin-theater",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Twin Temple",
-    "date": "2026-10-04",
-    "url": "https://www.etix.com/ticket/p/89918367/twin-temple-portland-crystal-ballroom-",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Dave Hause and The Mermaid & American Steel",
-    "date": "2026-10-04",
-    "url": "https://www.etix.com/ticket/p/66860389/dave-hause-and-the-mermaid-american-steel-portland-mississippi-studios",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Evening Elephants",
-    "date": "2026-10-04",
-    "url": "https://www.etix.com/ticket/p/87219734/evening-elephants-portland-polaris-hall",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Failure: Rising Skyline 2026",
-    "date": "2026-10-04",
-    "url": "https://www.etix.com/ticket/p/35615207/failurerising-skyline-2026-portland-revolution-hall",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "CHURCH OF HIVE",
-    "date": "2026-10-04",
-    "url": "https://www.startheaterportland.com/tm-event/church-of-hive-6/",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "NIGHTMARES & DAYDREAMS: A Dark Cabaret and Pole Fantasy",
-    "date": "2026-10-04",
-    "url": "https://www.startheaterportland.com/tm-event/nightmares-daydreams-a-dark-cabaret-and-pole-fantasy/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "TOC Presents: ACROSS THE ANDES: A Benefit Concert for Venezuela Earthquake Relief",
-    "date": "2026-10-04",
-    "url": "https://events.tocportland.org/theoldchurch/detail/897/1791167400000",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Mac Cornish (Album Release)",
-    "date": "2026-10-05",
-    "url": "https://www.etix.com/ticket/p/61170599/mac-cornish-album-release-portland-mississippi-studios",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Will Varley",
-    "date": "2026-10-05",
-    "url": "https://www.etix.com/ticket/p/66142268/will-varley-portland-polaris-hall",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "An Evening With Geordie Greep",
-    "date": "2026-10-05",
-    "url": "https://www.etix.com/ticket/p/77117293/an-evening-with-geordie-greep-portland-revolution-hall",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "KNRK PRESENTS JESSE RUTHEFORD of THE NEIGHBORHOOD",
-    "date": "2026-10-05",
-    "url": "https://www.startheaterportland.com/tm-event/knrk-presents-jesse-rutheford-of-the-neighborhood/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "The Moth StorySLAM: Magic",
-    "date": "2026-10-05",
-    "url": "https://events.tocportland.org/theoldchurch/detail/889/1791255600000",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Phillip Phillips",
     "date": "2026-10-06",
-    "url": "https://www.etix.com/ticket/p/81679433/phillip-phillips-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Michigander",
     "date": "2026-10-06",
-    "url": "https://www.etix.com/ticket/p/70370291/michigander-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "Acid Mothers Temple",
     "date": "2026-10-06",
-    "url": "https://www.etix.com/ticket/p/42336901/acid-mothers-temple-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Jane Remover - Live Exhibit",
     "date": "2026-10-06",
-    "url": "https://www.etix.com/ticket/p/95294538/sold-outjane-remover-live-exhibit-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -241,35 +38,35 @@
     "venue": "Aladdin Theater",
     "title": "Best Friends Podcast",
     "date": "2026-10-07",
-    "url": "https://www.etix.com/ticket/p/91973745/best-friends-podcast-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Devon Gilfillian - Time Will Tell Tour",
     "date": "2026-10-07",
-    "url": "https://www.etix.com/ticket/p/95252850/devon-gilfillian-time-will-tell-tour-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "SOLD OUT: MARO: SO MUCH HAS CHANGED",
     "date": "2026-10-07",
-    "url": "https://www.etix.com/ticket/p/47261185/sold-outmaroso-much-has-changed-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "The Milk Carton Kids Fall Tour",
     "date": "2026-10-07",
-    "url": "https://www.etix.com/ticket/p/75249962/the-milk-carton-kids-fall-tour-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "The People's Jam (FREE)",
     "date": "2026-10-07",
-    "url": "https://www.etix.com/ticket/p/93829484/the-peoples-jam-free-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -277,6 +74,13 @@
     "title": "SALIN with Midpak",
     "date": "2026-10-07",
     "url": "https://www.startheaterportland.com/tm-event/salin-with-midpak/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Christopher Brown Quartet",
+    "date": "2026-10-07",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -297,49 +101,56 @@
     "venue": "Aladdin Theater",
     "title": "Paula Cole THIS FIRE: 30",
     "date": "2026-10-08",
-    "url": "https://www.etix.com/ticket/p/55500360/paula-cole-this-fire30-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Wolves of Glendale",
     "date": "2026-10-08",
-    "url": "https://www.etix.com/ticket/p/57750529/wolves-of-glendale-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "The Menzingers: Everything I Ever Saw North American Tour",
     "date": "2026-10-08",
-    "url": "https://www.etix.com/ticket/p/62475161/the-menzingerseverything-i-ever-saw-north-american-tour-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Sherry Alves Quartet",
+    "date": "2026-10-08",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "Hiss Golden Messenger - I'm People Tour",
     "date": "2026-10-09",
-    "url": "https://www.etix.com/ticket/p/53454951/hiss-golden-messenger-im-people-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Anna Graves",
     "date": "2026-10-09",
-    "url": "https://www.etix.com/ticket/p/83711843/anna-graves-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Boy Harsher",
     "date": "2026-10-09",
-    "url": "https://www.etix.com/ticket/p/41697845/sold-outboy-harsher-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "The Cabin Project (Album Release)",
     "date": "2026-10-09",
-    "url": "https://www.etix.com/ticket/p/80191843/the-cabin-project-album-release-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -347,6 +158,20 @@
     "title": "MIA ASANO & DEADGRACE",
     "date": "2026-10-09",
     "url": "https://www.startheaterportland.com/tm-event/mia-asano-guest/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Galen Clark Organ Trio",
+    "date": "2026-10-09",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Late Show Henry Ivie-Gardner Plays the Blues",
+    "date": "2026-10-09",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -360,28 +185,28 @@
     "venue": "Aladdin Theater",
     "title": "19th Annual Oregon Music Hall of Fame (OMHOF) Induction and Concert",
     "date": "2026-10-10",
-    "url": "https://www.etix.com/ticket/p/38187564/19th-annual-oregon-music-hall-of-fame-omhofinduction-and-concert-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Jon McLaughlin - The Scenarios Tour",
     "date": "2026-10-10",
-    "url": "https://www.etix.com/ticket/p/34473545/jon-mclaughlin-the-scenarios-tour-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "SOLD OUT: LOVE SPELLS - LOVE IS THE LAW WORLD TOUR",
     "date": "2026-10-10",
-    "url": "https://www.etix.com/ticket/p/83007353/sold-outlove-spells-love-is-the-law-world-tour-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Boy Harsher",
     "date": "2026-10-10",
-    "url": "https://www.etix.com/ticket/p/86410883/sold-outboy-harsher-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -389,6 +214,13 @@
     "title": "KONTRAVOID with Buzz Kull, Sike Hellis, Normal Bias and Puerta Negra",
     "date": "2026-10-10",
     "url": "https://www.startheaterportland.com/tm-event/spike-hellis-with-normal-bias-puerta-negra/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Sabroso",
+    "date": "2026-10-10",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -400,7 +232,7 @@
   },
   {
     "venue": "The Old Church",
-    "title": "Candlelight: Vivaldi's Four Seasons",
+    "title": "SOLD OUT! Candlelight: Vivaldi's Four Seasons",
     "date": "2026-10-10",
     "url": "https://events.tocportland.org/theoldchurch/detail/846/1791682200000",
     "time": ""
@@ -414,37 +246,37 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "Toad the Wet Sprocket - Rings: The Acoustic Tour",
+    "title": "SOLD OUT: Toad the Wet Sprocket - Rings: The Acoustic Tour",
     "date": "2026-10-11",
-    "url": "https://www.etix.com/ticket/p/71677230/toad-the-wet-sprocket-ringsthe-acoustic-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "SOLD OUT: Automatic",
     "date": "2026-10-11",
-    "url": "https://www.etix.com/ticket/p/57393916/sold-outautomatic-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "SOLD OUT: Edgehill - The Moving Out Tour",
     "date": "2026-10-11",
-    "url": "https://www.etix.com/ticket/p/31689877/sold-outedgehill-the-moving-out-tour-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "Branford Marsalis & Dianne Reeves Celebrate John Coltrane",
     "date": "2026-10-11",
-    "url": "https://www.etix.com/ticket/p/37777984/branford-marsalis-dianne-reeves-celebrate-john-coltrane-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "Hot Flash Heat Wave",
     "date": "2026-10-11",
-    "url": "https://www.etix.com/ticket/p/52004721/hot-flash-heat-wave-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -452,6 +284,13 @@
     "title": "CHURCH OF HIVE",
     "date": "2026-10-11",
     "url": "https://www.startheaterportland.com/tm-event/church-of-hive-7/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Chuchito Vald\u00e9s Trio",
+    "date": "2026-10-11",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -479,28 +318,28 @@
     "venue": "Mississippi Studios",
     "title": "Damien Jurado",
     "date": "2026-10-12",
-    "url": "https://www.etix.com/ticket/p/44073714/damien-jurado-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "Swapmeet",
     "date": "2026-10-12",
-    "url": "https://www.etix.com/ticket/p/89879975/swapmeet-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Iron & Wine",
     "date": "2026-10-12",
-    "url": "https://www.etix.com/ticket/p/96187526/sold-outiron-wine-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "The Low Bar Chorale",
     "date": "2026-10-12",
-    "url": "https://www.etix.com/ticket/p/42560695/the-low-bar-chorale-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -514,21 +353,28 @@
     "venue": "Mississippi Studios",
     "title": "Local Love Letter #29: Half Shadow",
     "date": "2026-10-13",
-    "url": "https://www.etix.com/ticket/p/51311539/local-love-letter-29half-shadow-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "BL\u00dc EYES: Two People at Once Tour",
     "date": "2026-10-13",
-    "url": "https://www.etix.com/ticket/p/35643322/bl%C3%BC-eyestwo-people-at-once-tour-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: She Wants Revenge",
     "date": "2026-10-13",
-    "url": "https://www.etix.com/ticket/p/41149745/sold-outshe-wants-revenge-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Carin' For Darrin: Darrin Craig Benefit Show",
+    "date": "2026-10-13",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -549,21 +395,28 @@
     "venue": "Mississippi Studios",
     "title": "The Jungle Giants",
     "date": "2026-10-14",
-    "url": "https://www.etix.com/ticket/p/98928337/the-jungle-giants-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "Renny Conti - Split Second Tour",
     "date": "2026-10-14",
-    "url": "https://www.etix.com/ticket/p/63736033/renny-conti-split-second-tour-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "Lady Killers with Gwen Rose hosted by Ally J Ward & Devan Daily",
     "date": "2026-10-14",
-    "url": "https://www.etix.com/ticket/p/58519288/lady-killers-with-gwen-rose-hosted-by-ally-j-ward-devan-daily-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Diego Figueiredo",
+    "date": "2026-10-14",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -591,35 +444,35 @@
     "venue": "Aladdin Theater",
     "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
     "date": "2026-10-15",
-    "url": "https://www.etix.com/ticket/p/78312069/vidura-bandara-rajapaksathe-paradise-gothic-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "Dave Alvin: New and Old Songs w/ Chris Miller",
     "date": "2026-10-15",
-    "url": "https://www.etix.com/ticket/p/50460092/dave-alvinnew-and-old-songs-wchris-miller-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "Rin -  Dearest Diary Tour",
     "date": "2026-10-15",
-    "url": "https://www.etix.com/ticket/p/52816796/rin-dearest-diary-tour-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "Ashley Cooke: The Baby Blues Tour",
     "date": "2026-10-15",
-    "url": "https://www.etix.com/ticket/p/65736762/ashley-cookethe-baby-blues-tour-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "SOLD OUT: Locked On Blazers Live Podcast",
     "date": "2026-10-15",
-    "url": "https://www.etix.com/ticket/p/64152163/sold-outlocked-on-blazers-live-podcast-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -627,6 +480,13 @@
     "title": "HULDER with Antichrist Siege Machine & Lividus",
     "date": "2026-10-15",
     "url": "https://www.startheaterportland.com/tm-event/hulder-with-antichrist-siege-machine-guest/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Kerry Politzer and Bossa PDX",
+    "date": "2026-10-15",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -640,42 +500,77 @@
     "venue": "Aladdin Theater",
     "title": "Hovvdy",
     "date": "2026-10-16",
-    "url": "https://www.etix.com/ticket/p/81572690/hovvdy-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Mississippi Studios",
     "title": "TURNSTILES: An Epic Billy Joel Singalong",
     "date": "2026-10-16",
-    "url": "https://www.etix.com/ticket/p/49842490/turnstilesan-epic-billy-joel-singalong-portland-mississippi-studios",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Polaris Hall",
     "title": "Dos Santos",
     "date": "2026-10-16",
-    "url": "https://www.etix.com/ticket/p/48886474/dos-santos-portland-polaris-hall",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "Two Dykes and a Mic: Soaking Wet Tour",
     "date": "2026-10-16",
-    "url": "https://www.etix.com/ticket/p/64512753/two-dykes-and-a-micsoaking-wet-tour-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "Alien Boy",
     "date": "2026-10-16",
-    "url": "https://www.etix.com/ticket/p/34651868/alien-boy-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Farnell Newton's The Soul of Jazz",
+    "date": "2026-10-16",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Mike Burton and Good Time Horns Late Night Jam",
+    "date": "2026-10-16",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Old Church",
+    "title": "Tesla City Stories | Live Vintage Radio | The Halloween Special!",
+    "date": "2026-10-16",
+    "url": "https://events.tocportland.org/theoldchurch/detail/913/1792204200000",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "The Holdup - The BUYING TIME Tour",
+    "date": "2026-10-17",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Post Sex Nachos",
+    "date": "2026-10-17",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Pattie Gonia: SAVE HER! Feat. Sequoia and VERA!",
     "date": "2026-10-17",
-    "url": "https://www.etix.com/ticket/p/76372405/sold-outpattie-goniasave-herfeatsequoia-and-vera-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -683,6 +578,13 @@
     "title": "KIEFER with Shibo",
     "date": "2026-10-17",
     "url": "https://www.startheaterportland.com/tm-event/kiefer-with-shibo/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Jack Radsliff Quartet",
+    "date": "2026-10-17",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -703,21 +605,28 @@
     "venue": "Aladdin Theater",
     "title": "The Okee Dokee Brothers",
     "date": "2026-10-18",
-    "url": "https://www.etix.com/ticket/p/37849024/the-okee-dokee-brothers-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Liz Longley",
+    "date": "2026-10-18",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "Jim Henson\u2019s Labyrinth: In Concert 40th Anniversary",
     "date": "2026-10-18",
-    "url": "https://www.etix.com/ticket/p/88709938/jim-hensons-labyrinthin-concert-40th-anniversary-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "Diles que no me maten",
     "date": "2026-10-18",
-    "url": "https://www.etix.com/ticket/p/42793749/diles-que-no-me-maten-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -728,17 +637,38 @@
     "time": ""
   },
   {
-    "venue": "Wonder Ballroom",
-    "title": "SiM \u2013 HOOMAN WORLD TOUR",
+    "venue": "The 1905",
+    "title": "Mel Brown B3 Organ Group",
     "date": "2026-10-18",
-    "url": "https://wonderballroom.com/event/sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "*Postponed* SiM \u2013 HOOMAN WORLD TOUR",
+    "date": "2026-10-18",
+    "url": "https://wonderballroom.com/event/postponed-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "SOLD OUT: This is Lorelei",
     "date": "2026-10-19",
-    "url": "https://www.etix.com/ticket/p/94620855/sold-outthis-is-lorelei-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Izaak Opatz",
+    "date": "2026-10-19",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Flower Face",
+    "date": "2026-10-19",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -749,10 +679,24 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Dummy",
+    "date": "2026-10-20",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Danava - Yoko Bday Bash, 20th Anniversary of 'Danava'",
+    "date": "2026-10-20",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Gary Clark Jr.",
     "date": "2026-10-20",
-    "url": "https://www.etix.com/ticket/p/95127338/gary-clark-jr-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -766,14 +710,28 @@
     "venue": "Aladdin Theater",
     "title": "Frog",
     "date": "2026-10-21",
-    "url": "https://www.etix.com/ticket/p/60462241/frog-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Red Shahan",
+    "date": "2026-10-21",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "REZN - Cycles in the Infinite Dream Tour",
+    "date": "2026-10-21",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Digable Planets - Blowout Comb 30th Anniversary Tour",
     "date": "2026-10-21",
-    "url": "https://www.etix.com/ticket/p/57089841/sold-outdigable-planets-blowout-comb-30th-anniversary-tour-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -781,6 +739,13 @@
     "title": "GAVN! THE SALVATION TOUR",
     "date": "2026-10-21",
     "url": "https://www.startheaterportland.com/tm-event/gavn-the-salvation-tour/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Charlie Brown III and Friends",
+    "date": "2026-10-21",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -798,17 +763,24 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "The Fourth Wall",
+    "date": "2026-10-22",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Dinosaur Jr. - Fall Tour 2026",
     "date": "2026-10-22",
-    "url": "https://www.etix.com/ticket/p/60673525/sold-outdinosaur-jrfall-tour-2026-portland-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
     "venue": "Show Bar",
     "title": "How Strange It Is (Album Release)",
     "date": "2026-10-22",
-    "url": "https://www.etix.com/ticket/p/73158131/how-strange-it-is-album-release-portland-show-bar-at-revolution-hall",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -816,6 +788,13 @@
     "title": "ETANA",
     "date": "2026-10-22",
     "url": "https://www.startheaterportland.com/tm-event/etana/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Elsa Nilsson - Band of Pulses",
+    "date": "2026-10-22",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -836,7 +815,21 @@
     "venue": "Aladdin Theater",
     "title": "Twin Peaks: A Conversation With The Stars",
     "date": "2026-10-23",
-    "url": "https://www.etix.com/ticket/p/69846527/twin-peaksa-conversation-with-the-stars-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Slow Pulp",
+    "date": "2026-10-23",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Resavoir",
+    "date": "2026-10-23",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -844,6 +837,13 @@
     "title": "VIOLET GROHL BE SWEET TO ME TOUR with Suzy Clue",
     "date": "2026-10-23",
     "url": "https://www.startheaterportland.com/tm-event/violet-grohl-be-sweet-to-me-tour/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Buster Williams Trio with Domo Branch and George Colligan",
+    "date": "2026-10-23",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -857,7 +857,21 @@
     "venue": "Aladdin Theater",
     "title": "Theo Katzman",
     "date": "2026-10-24",
-    "url": "https://www.etix.com/ticket/p/56212025/theo-katzman-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Pigeons Playing Ping Pong - Fall Tour 2026",
+    "date": "2026-10-24",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Dead Astaire",
+    "date": "2026-10-24",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -865,6 +879,13 @@
     "title": "CHERRY POPPIN DADDIES with Los Mal Hablados and The Skylarkers",
     "date": "2026-10-24",
     "url": "https://www.startheaterportland.com/tm-event/cherry-poppin-daddies-with-los-mal-hablados-and-the-skylarkers/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Buster Williams Trio with Domo Branch and George Colligan",
+    "date": "2026-10-24",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -885,7 +906,14 @@
     "venue": "Aladdin Theater",
     "title": "Frankie Cosmos - Celebrating 10 Years of Next Thing",
     "date": "2026-10-25",
-    "url": "https://www.etix.com/ticket/p/74188119/frankie-cosmos-celebrating-10-years-of-next-thing-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "The Dillinger Escape Plan - Final Calculating Infinity Shows",
+    "date": "2026-10-25",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -903,24 +931,31 @@
     "time": ""
   },
   {
+    "venue": "The 1905",
+    "title": "Bridgetown Sextet",
+    "date": "2026-10-25",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "You Should Be Dancing \u2013 A Tribute to the Bee Gees",
     "date": "2026-10-26",
-    "url": "https://www.etix.com/ticket/p/72728056/you-should-be-dancing-a-tribute-to-the-bee-gees-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Crystal Ballroom",
     "title": "Julia Jacklin - North America Tour 2026",
     "date": "2026-10-26",
-    "url": "https://www.etix.com/ticket/p/95951132/julia-jacklin-north-america-tour-2026-portland-crystal-ballroom-",
+    "url": "https://crystalballroompdx.com/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "Joy Oladokun: The Heavy Things Tour",
     "date": "2026-10-27",
-    "url": "https://www.etix.com/ticket/p/46348497/joy-oladokunthe-heavy-things-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -941,14 +976,21 @@
     "venue": "Aladdin Theater",
     "title": "REEL ROCK 20",
     "date": "2026-10-28",
-    "url": "https://www.etix.com/ticket/p/71194539/reel-rock-20-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Creative Music Guild Presents: Akila Fields Trio w/ Special Guest Noah Bernstein",
+    "date": "2026-10-28",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "Protomartyr",
     "date": "2026-10-29",
-    "url": "https://www.etix.com/ticket/p/32935754/protomartyr-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -956,6 +998,13 @@
     "title": "FENIX FLEXIN",
     "date": "2026-10-29",
     "url": "https://www.startheaterportland.com/tm-event/fenix-flexin/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Cory Limuaco and Friends",
+    "date": "2026-10-29",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -969,7 +1018,7 @@
     "venue": "Aladdin Theater",
     "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
     "date": "2026-10-30",
-    "url": "https://www.etix.com/ticket/p/33035472/ax-and-the-hatchetmenthe-late-checkout-tour-2026-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -977,6 +1026,20 @@
     "title": "CONSTANT DEBAUCHERY with Sacre Bleu",
     "date": "2026-10-30",
     "url": "https://www.startheaterportland.com/tm-event/constant-debauchery-with-sacre-bleu/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Luther S. Allison Trio",
+    "date": "2026-10-30",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Old Church",
+    "title": "Candlelight: A Haunted Evening of Halloween Classics",
+    "date": "2026-10-30",
+    "url": "https://events.tocportland.org/theoldchurch/detail/817/1793410200000",
     "time": ""
   },
   {
@@ -990,7 +1053,7 @@
     "venue": "Aladdin Theater",
     "title": "The Brothers Comatose",
     "date": "2026-10-31",
-    "url": "https://www.etix.com/ticket/p/40016337/the-brothers-comatose-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -998,6 +1061,13 @@
     "title": "BOSCO\u2019S HAUS OF WHORRORS: Halloween Night  Direct from TRANSylvania",
     "date": "2026-10-31",
     "url": "https://www.startheaterportland.com/tm-event/boscos-haus-of-whorrors-halloween-night-direct-from-transylvania/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Nick Rolfe and Co Halloween Party",
+    "date": "2026-10-31",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1018,14 +1088,28 @@
     "venue": "Aladdin Theater",
     "title": "Buena Vista Orchestra",
     "date": "2026-11-01",
-    "url": "https://www.etix.com/ticket/p/56309728/buena-vista-orchestra-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "CHURCH OF HIVE",
+    "date": "2026-11-01",
+    "url": "https://www.startheaterportland.com/tm-event/church-of-hive-10/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "The Rivkah Ross Quintet",
+    "date": "2026-11-01",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "King Buffalo",
     "date": "2026-11-02",
-    "url": "https://www.etix.com/ticket/p/84319558/king-buffalo-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1039,7 +1123,7 @@
     "venue": "Aladdin Theater",
     "title": "Greg Freeman",
     "date": "2026-11-03",
-    "url": "https://www.etix.com/ticket/p/38148085/greg-freeman-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1060,7 +1144,7 @@
     "venue": "Aladdin Theater",
     "title": "Introducing The Aces with special guest Gatlin",
     "date": "2026-11-04",
-    "url": "https://www.etix.com/ticket/p/97525643/introducing-the-aces-with-special-guest-gatlin-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1071,10 +1155,17 @@
     "time": ""
   },
   {
+    "venue": "The 1905",
+    "title": "The Christopher Brown Quartet",
+    "date": "2026-11-04",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Jake Xerxes Fussell",
     "date": "2026-11-05",
-    "url": "https://www.etix.com/ticket/p/81125006/jake-xerxes-fussell-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1082,6 +1173,13 @@
     "title": "NAHKO AND MEDICINE FOR THE PEOPLE \u2013 HOKA 10TH ANNIVERSARY TOUR",
     "date": "2026-11-05",
     "url": "https://www.startheaterportland.com/tm-event/nahko-and-medicine-for-the-people-hoka-10th-anniversary-tour-2/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "The Ben Wolfe Trio with Nicole Glover and Ron Steen",
+    "date": "2026-11-05",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1095,7 +1193,21 @@
     "venue": "Aladdin Theater",
     "title": "Kathy Griffin: New face, New tour",
     "date": "2026-11-06",
-    "url": "https://www.etix.com/ticket/p/94240898/kathy-griffinnew-facenew-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "THE HYRULE BALL",
+    "date": "2026-11-06",
+    "url": "https://www.startheaterportland.com/tm-event/the-hyrule-ball/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Dmitri Matheny Group",
+    "date": "2026-11-06",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1116,7 +1228,7 @@
     "venue": "Aladdin Theater",
     "title": "Marc Broussard",
     "date": "2026-11-07",
-    "url": "https://www.etix.com/ticket/p/47642458/marc-broussard-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1124,6 +1236,34 @@
     "title": "EXHUMED with Jarhead Fertilizer, Savage Master & Molder",
     "date": "2026-11-07",
     "url": "https://www.startheaterportland.com/tm-event/exhumed-with-jarhead-fertilizer-savage-master-molder/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Late Show with Noah Mortola",
+    "date": "2026-11-07",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Nicole McCabe",
+    "date": "2026-11-07",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Old Church",
+    "title": "Candlelight: 90s Unplugged",
+    "date": "2026-11-07",
+    "url": "https://events.tocportland.org/theoldchurch/detail/906/1794113100000",
+    "time": ""
+  },
+  {
+    "venue": "The Old Church",
+    "title": "Candlelight: Tribute to Michael Jackson",
+    "date": "2026-11-07",
+    "url": "https://events.tocportland.org/theoldchurch/detail/905/1794105000000",
     "time": ""
   },
   {
@@ -1144,21 +1284,14 @@
     "venue": "Aladdin Theater",
     "title": "Warren Miller's \"Days Off\"",
     "date": "2026-11-08",
-    "url": "https://www.etix.com/ticket/p/30714907/warren-millers-days-off-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
-    "venue": "Aladdin Theater",
-    "title": "Warren Miller's \"Days Off\"",
+    "venue": "The 1905",
+    "title": "Dave Tull",
     "date": "2026-11-08",
-    "url": "https://www.etix.com/ticket/p/82430430/warren-millers-days-off-portland-aladdin-theater",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
-    "title": "Warren Miller's \"Days Off\"",
-    "date": "2026-11-08",
-    "url": "https://www.etix.com/ticket/p/59712086/warren-millers-days-off-portland-aladdin-theater",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1172,28 +1305,35 @@
     "venue": "Aladdin Theater",
     "title": "Aterciopelados: La Pipa De La Paz 30 A\u00f1os Tour",
     "date": "2026-11-09",
-    "url": "https://www.etix.com/ticket/p/61890621/aterciopeladosla-pipa-de-la-paz-30-a%C3%B1os-tour-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "Foy Vance World Tour | 2026 & 2027",
     "date": "2026-11-10",
-    "url": "https://www.etix.com/ticket/p/68643294/foy-vance-world-tour-2026-2027-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Crystal Ballroom",
     "title": "The Black Angels: Passover 2026 Tour",
     "date": "2026-11-10",
-    "url": "https://www.etix.com/ticket/p/38430232/the-black-angelspassover-2026-tour-portland-crystal-ballroom-",
+    "url": "https://crystalballroompdx.com/",
     "time": ""
   },
   {
     "venue": "Aladdin Theater",
     "title": "Squirrel Flower",
     "date": "2026-11-11",
-    "url": "https://www.etix.com/ticket/p/90140768/squirrel-flower-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Wil Blades",
+    "date": "2026-11-11",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1204,17 +1344,24 @@
     "time": ""
   },
   {
+    "venue": "The 1905",
+    "title": "Trio of Boom",
+    "date": "2026-11-12",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Johnny Franco & His Real Brother Dom",
     "date": "2026-11-13",
-    "url": "https://www.etix.com/ticket/p/43397868/johnny-franco-his-real-brother-dom-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Crystal Ballroom",
     "title": "Houndmouth",
     "date": "2026-11-13",
-    "url": "https://www.etix.com/ticket/p/52592072/houndmouth-portland-crystal-ballroom-",
+    "url": "https://crystalballroompdx.com/",
     "time": ""
   },
   {
@@ -1225,17 +1372,24 @@
     "time": ""
   },
   {
+    "venue": "The 1905",
+    "title": "Keith Brown Quartet",
+    "date": "2026-11-13",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Son Volt",
     "date": "2026-11-14",
-    "url": "https://www.etix.com/ticket/p/32470232/son-volt-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
     "venue": "Crystal Ballroom",
     "title": "Russian Circles",
     "date": "2026-11-14",
-    "url": "https://www.etix.com/ticket/p/92444095/russian-circles-portland-crystal-ballroom-",
+    "url": "https://crystalballroompdx.com/",
     "time": ""
   },
   {
@@ -1243,6 +1397,13 @@
     "title": "DESERT DWELLERS with Entangled Mind,\u00a0Mah Ze Tar",
     "date": "2026-11-14",
     "url": "https://www.startheaterportland.com/tm-event/desert-dwellers-with-entangled-mind-mah-ze-tar/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Christopher Brown and Friends Featuring Gina Saputo",
+    "date": "2026-11-14",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1263,7 +1424,7 @@
     "venue": "Aladdin Theater",
     "title": "Joanne Shaw Taylor",
     "date": "2026-11-15",
-    "url": "https://www.etix.com/ticket/p/78756159/joanne-shaw-taylor-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1271,6 +1432,13 @@
     "title": "IRON CHIC with special guests",
     "date": "2026-11-15",
     "url": "https://www.startheaterportland.com/tm-event/iron-chic-with-special-guests/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Bridgetown Sextet",
+    "date": "2026-11-15",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   },
   {
@@ -1291,7 +1459,7 @@
     "venue": "Aladdin Theater",
     "title": "Vocalocity: We\u2019re Halfway There",
     "date": "2026-11-16",
-    "url": "https://www.etix.com/ticket/p/39115686/vocalocitywere-halfway-there-portland-aladdin-theater",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   },
   {
@@ -1299,6 +1467,104 @@
     "title": "DEVIL MASTER with PILAU & Guest",
     "date": "2026-11-16",
     "url": "https://www.startheaterportland.com/tm-event/devil-master-with-pilau-guest/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "The Portland GrandSLAM",
+    "date": "2026-11-17",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "CLARION",
+    "date": "2026-11-17",
+    "url": "https://www.startheaterportland.com/tm-event/clarion/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "The Residents \u2013 Eskimo Live! Tour",
+    "date": "2026-11-17",
+    "url": "https://wonderballroom.com/event/the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Agriculture",
+    "date": "2026-11-18",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Cyrus Nabipoor Quartet",
+    "date": "2026-11-18",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Old Church",
+    "title": "TOC Presents: Pierre Bensusan - The Infinite Guitar Tour 2026",
+    "date": "2026-11-18",
+    "url": "https://events.tocportland.org/theoldchurch/detail/849/1795059000000",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "Eiv\u00f8r",
+    "date": "2026-11-18",
+    "url": "https://wonderballroom.com/event/eiv%c3%b8r/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Todd Rundgren: DAMNED IF I DO TOUR",
+    "date": "2026-11-19",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "HELL with DEATH PARADE, HOPE & FAILURE, GETHEN and DJ DIRTY WIZARD",
+    "date": "2026-11-19",
+    "url": "https://www.startheaterportland.com/tm-event/hell-with-death-parade-hope-failure-gethen-and-dj-dirty-wizard/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Kerry Politzer and Bossa PDX",
+    "date": "2026-11-19",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "Jamila Woods: 10 Years of HEAVN",
+    "date": "2026-11-19",
+    "url": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Grief Sucks: A One Man Show By KevOnStage",
+    "date": "2026-11-20",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "PRAYERS No Tengo Calma Tour 2026 featuring DEVORA and HALLOWS",
+    "date": "2026-11-20",
+    "url": "https://www.startheaterportland.com/tm-event/prayers-no-tengo-calma-tour-2026-featuring-devora-hallows-and-chriz-amaya/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Farnell Newton's The Soul of Jazz",
+    "date": "2026-11-20",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   }
 ]
