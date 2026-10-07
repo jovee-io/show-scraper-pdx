@@ -1,41 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Phillip Phillips",
-    "date": "2026-10-06",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Michigander",
-    "date": "2026-10-06",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Acid Mothers Temple",
-    "date": "2026-10-06",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Jane Remover - Live Exhibit",
-    "date": "2026-10-06",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "DOMi & JD BECK \u2013 WHO ASKED? Tour",
-    "date": "2026-10-06",
-    "url": "https://wonderballroom.com/event/domi-jd-beck-who-asked-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Best Friends Podcast",
     "date": "2026-10-07",
     "url": "https://aladdin-theater.com/",
@@ -84,17 +49,10 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "FREE Lunchtime Concerts | Sid Samberg",
-    "date": "2026-10-07",
-    "url": "https://events.tocportland.org/theoldchurch/detail/883/1791399600000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
-    "title": "DOMi & JD BECK \u2013 WHO ASKED? Tour",
+    "title": "An Evening With DOMi & JD BECK \u2013 WHO ASKED? Tour",
     "date": "2026-10-07",
-    "url": "https://wonderballroom.com/event/domi-jd-beck-who-asked-tour-2/wonder-ballroom/portland-oregon/",
+    "url": "https://wonderballroom.com/event/an-evening-with-domi-jd-beck-who-asked-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   },
   {
@@ -224,20 +182,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Candlelight: Queen vs. ABBA",
-    "date": "2026-10-10",
-    "url": "https://events.tocportland.org/theoldchurch/detail/822/1791690300000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "SOLD OUT! Candlelight: Vivaldi's Four Seasons",
-    "date": "2026-10-10",
-    "url": "https://events.tocportland.org/theoldchurch/detail/846/1791682200000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "French Police",
     "date": "2026-10-10",
@@ -291,20 +235,6 @@
     "title": "Chuchito Vald\u00e9s Trio",
     "date": "2026-10-11",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: Bach to Beatles",
-    "date": "2026-10-11",
-    "url": "https://events.tocportland.org/theoldchurch/detail/903/1791768600000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: Tribute to Fleetwood Mac",
-    "date": "2026-10-11",
-    "url": "https://events.tocportland.org/theoldchurch/detail/890/1791776700000",
     "time": ""
   },
   {
@@ -420,20 +350,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "A Night of Grief and Mystery: Trembling, Still/Caldera Tour",
-    "date": "2026-10-14",
-    "url": "https://events.tocportland.org/theoldchurch/detail/904/1792031400000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "FREE Lunchtime Concerts | Shelly Rudolph",
-    "date": "2026-10-14",
-    "url": "https://events.tocportland.org/theoldchurch/detail/881/1792004400000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "GLAIVE \u2013 GOD SAVE THE THREE TOUR",
     "date": "2026-10-14",
@@ -490,13 +406,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "KMHD & PJCE present \"Be In The Right Now\" - George Colligan feat. Zyanna Album Release",
-    "date": "2026-10-15",
-    "url": "https://events.tocportland.org/theoldchurch/detail/818/1792117800000",
-    "time": ""
-  },
-  {
     "venue": "Aladdin Theater",
     "title": "Hovvdy",
     "date": "2026-10-16",
@@ -546,13 +455,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Tesla City Stories | Live Vintage Radio | The Halloween Special!",
-    "date": "2026-10-16",
-    "url": "https://events.tocportland.org/theoldchurch/detail/913/1792204200000",
-    "time": ""
-  },
-  {
     "venue": "Mississippi Studios",
     "title": "The Holdup - The BUYING TIME Tour",
     "date": "2026-10-17",
@@ -585,20 +487,6 @@
     "title": "Jack Radsliff Quartet",
     "date": "2026-10-17",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: The Best of Joe Hisaishi",
-    "date": "2026-10-17",
-    "url": "https://events.tocportland.org/theoldchurch/detail/824/1792295100000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "SOLD OUT! Candlelight: Tribute to Michael Jackson",
-    "date": "2026-10-17",
-    "url": "https://events.tocportland.org/theoldchurch/detail/869/1792287000000",
     "time": ""
   },
   {
@@ -749,13 +637,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "FREE Lunchtime Concerts | Michael Barnes Hallowe'en",
-    "date": "2026-10-21",
-    "url": "https://events.tocportland.org/theoldchurch/detail/893/1792609200000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "SLIFT",
     "date": "2026-10-21",
@@ -819,6 +700,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Tom Hamilton Band",
+    "date": "2026-10-23",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Bedouine",
+    "date": "2026-10-23",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Slow Pulp",
     "date": "2026-10-23",
@@ -844,13 +739,6 @@
     "title": "Buster Williams Trio with Domo Branch and George Colligan",
     "date": "2026-10-23",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: A Haunted Evening of Halloween Classics",
-    "date": "2026-10-23",
-    "url": "https://events.tocportland.org/theoldchurch/detail/809/1792805400000",
     "time": ""
   },
   {
@@ -886,13 +774,6 @@
     "title": "Buster Williams Trio with Domo Branch and George Colligan",
     "date": "2026-10-24",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "The Kirtan Love Experience with Jai Uttal & Friends",
-    "date": "2026-10-24",
-    "url": "https://events.tocportland.org/theoldchurch/detail/813/1792895400000",
     "time": ""
   },
   {
@@ -952,17 +833,17 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "George Clanton",
+    "date": "2026-10-26",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Joy Oladokun: The Heavy Things Tour",
     "date": "2026-10-27",
     "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Harp Twins + Volfgang Twins Halloween Concert!",
-    "date": "2026-10-27",
-    "url": "https://events.tocportland.org/theoldchurch/detail/896/1793154600000",
     "time": ""
   },
   {
@@ -1036,13 +917,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Candlelight: A Haunted Evening of Halloween Classics",
-    "date": "2026-10-30",
-    "url": "https://events.tocportland.org/theoldchurch/detail/817/1793410200000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "SHAWN JAMES \u201cFLEW TOO CLOSE TO THE SUN TOUR\u201d",
     "date": "2026-10-30",
@@ -1071,13 +945,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Brujos Presents: Darkness Over The Old Church",
-    "date": "2026-10-31",
-    "url": "https://events.tocportland.org/theoldchurch/detail/900/1793500200000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "Halloween Bash Dance Party",
     "date": "2026-10-31",
@@ -1100,6 +967,13 @@
   },
   {
     "venue": "The 1905",
+    "title": "Behind The Scene with The Christopher Brown Quartet",
+    "date": "2026-11-01",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
     "title": "The Rivkah Ross Quintet",
     "date": "2026-11-01",
     "url": "https://www.the1905jazz.club/",
@@ -1110,13 +984,6 @@
     "title": "King Buffalo",
     "date": "2026-11-02",
     "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "The Moth StorySLAM: Home for the Holidays",
-    "date": "2026-11-02",
-    "url": "https://events.tocportland.org/theoldchurch/detail/912/1793678400000",
     "time": ""
   },
   {
@@ -1131,13 +998,6 @@
     "title": "DALEY",
     "date": "2026-11-03",
     "url": "https://www.startheaterportland.com/tm-event/daley/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Sonic Sanctuary",
-    "date": "2026-11-03",
-    "url": "https://events.tocportland.org/theoldchurch/detail/911/1793736000000",
     "time": ""
   },
   {
@@ -1211,13 +1071,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Istorya Ni Rey Valera",
-    "date": "2026-11-06",
-    "url": "https://events.tocportland.org/theoldchurch/detail/908/1794022200000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "INOHA",
     "date": "2026-11-06",
@@ -1250,27 +1103,6 @@
     "title": "Nicole McCabe",
     "date": "2026-11-07",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: 90s Unplugged",
-    "date": "2026-11-07",
-    "url": "https://events.tocportland.org/theoldchurch/detail/906/1794113100000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Candlelight: Tribute to Michael Jackson",
-    "date": "2026-11-07",
-    "url": "https://events.tocportland.org/theoldchurch/detail/905/1794105000000",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Literary Arts Portland Book Festival",
-    "date": "2026-11-07",
-    "url": "https://events.tocportland.org/theoldchurch/detail/887/1794074400000",
     "time": ""
   },
   {
@@ -1407,13 +1239,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "Luigi Sings Courage",
-    "date": "2026-11-14",
-    "url": "https://events.tocportland.org/theoldchurch/detail/879/1794713400000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "Earlybirds Club",
     "date": "2026-11-14",
@@ -1439,13 +1264,6 @@
     "title": "Bridgetown Sextet",
     "date": "2026-11-15",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Old Church",
-    "title": "Friends of Chamber Music presents Hamilton & Friends",
-    "date": "2026-11-15",
-    "url": "https://events.tocportland.org/theoldchurch/detail/805/1794798000000",
     "time": ""
   },
   {
@@ -1505,13 +1323,6 @@
     "time": ""
   },
   {
-    "venue": "The Old Church",
-    "title": "TOC Presents: Pierre Bensusan - The Infinite Guitar Tour 2026",
-    "date": "2026-11-18",
-    "url": "https://events.tocportland.org/theoldchurch/detail/849/1795059000000",
-    "time": ""
-  },
-  {
     "venue": "Wonder Ballroom",
     "title": "Eiv\u00f8r",
     "date": "2026-11-18",
@@ -1564,6 +1375,20 @@
     "venue": "The 1905",
     "title": "Farnell Newton's The Soul of Jazz",
     "date": "2026-11-20",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Paula Poundstone",
+    "date": "2026-11-21",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Kareem Kandi with Ali Jackson",
+    "date": "2026-11-21",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
