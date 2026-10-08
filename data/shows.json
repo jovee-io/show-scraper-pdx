@@ -1,62 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Best Friends Podcast",
-    "date": "2026-10-07",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Devon Gilfillian - Time Will Tell Tour",
-    "date": "2026-10-07",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: MARO: SO MUCH HAS CHANGED",
-    "date": "2026-10-07",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "The Milk Carton Kids Fall Tour",
-    "date": "2026-10-07",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "The People's Jam (FREE)",
-    "date": "2026-10-07",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Star Theater",
-    "title": "SALIN with Midpak",
-    "date": "2026-10-07",
-    "url": "https://www.startheaterportland.com/tm-event/salin-with-midpak/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Christopher Brown Quartet",
-    "date": "2026-10-07",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "An Evening With DOMi & JD BECK \u2013 WHO ASKED? Tour",
-    "date": "2026-10-07",
-    "url": "https://wonderballroom.com/event/an-evening-with-domi-jd-beck-who-asked-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Paula Cole THIS FIRE: 30",
     "date": "2026-10-08",
     "url": "https://aladdin-theater.com/",
@@ -749,6 +693,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Marie Faustin",
+    "date": "2026-10-24",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Laura Veirs",
+    "date": "2026-10-24",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Pigeons Playing Ping Pong - Fall Tour 2026",
     "date": "2026-10-24",
@@ -840,10 +798,24 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "Faux Real",
+    "date": "2026-10-26",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Joy Oladokun: The Heavy Things Tour",
     "date": "2026-10-27",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Eric Idle: Idle in Provence",
+    "date": "2026-10-27",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1389,6 +1361,27 @@
     "venue": "The 1905",
     "title": "Kareem Kandi with Ali Jackson",
     "date": "2026-11-21",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "SOLD OUT: Haley Heynderickx",
+    "date": "2026-11-22",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Star Theater",
+    "title": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
+    "date": "2026-11-22",
+    "url": "https://www.startheaterportland.com/tm-event/psycroptic-with-inferi-cognitive-summoning-the-lich/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Chuck Israels Trio",
+    "date": "2026-11-22",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
