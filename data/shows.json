@@ -1,34 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Paula Cole THIS FIRE: 30",
-    "date": "2026-10-08",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Wolves of Glendale",
-    "date": "2026-10-08",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "The Menzingers: Everything I Ever Saw North American Tour",
-    "date": "2026-10-08",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Sherry Alves Quartet",
-    "date": "2026-10-08",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Hiss Golden Messenger - I'm People Tour",
     "date": "2026-10-09",
     "url": "https://aladdin-theater.com/",
@@ -749,6 +721,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Griffin House",
+    "date": "2026-10-25",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "The Dillinger Escape Plan - Final Calculating Infinity Shows",
     "date": "2026-10-25",
@@ -814,6 +793,13 @@
   {
     "venue": "Revolution Hall",
     "title": "Eric Idle: Idle in Provence",
+    "date": "2026-10-27",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Francis of Delirium",
     "date": "2026-10-27",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -1383,6 +1369,13 @@
     "title": "Chuck Israels Trio",
     "date": "2026-11-22",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Haley Heynderickx",
+    "date": "2026-11-23",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   }
 ]
