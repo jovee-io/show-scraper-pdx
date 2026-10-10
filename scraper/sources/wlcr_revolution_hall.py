@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 from ..http import get
 from ..shows import Show
-from ._wlcr_common import local_date_from_doors, venue_homepage, venue_name_from_logo_alt
+from ._wlcr_common import COVERED_BY_OWN_SOURCE, local_date_from_doors, venue_homepage, venue_name_from_logo_alt
 
 URL = "https://revolutionhall.com/"
 
@@ -22,7 +22,7 @@ def get_shows() -> list[Show]:
             venue = _VENUE_NAME_FIXUPS.get(venue, venue)
         title_el = card.select_one("h3 a") or card.select_one('[itemprop="name"] a')
         doors_el = card.select_one("[data-event-doors]")
-        if not (venue and title_el and doors_el):
+        if not (venue and title_el and doors_el) or venue in COVERED_BY_OWN_SOURCE:
             continue
         title = title_el.get_text(strip=True)
         ticket_url = title_el.get("href")

@@ -25,6 +25,12 @@ VENUE_HOMEPAGES = {
     "Crystal Ballroom": "https://crystalballroompdx.com/",
 }
 
+# Venues that occasionally show up cross-listed on a WLCR-family page but
+# have their own dedicated, more complete source elsewhere (see sources/
+# crystal.py). Their cross-listed titles/urls don't match the dedicated
+# source closely enough for dedupe() to catch, so skip them here instead.
+COVERED_BY_OWN_SOURCE = {"Crystal Ballroom"}
+
 
 def local_date_from_doors(doors_iso: str) -> str | None:
     try:

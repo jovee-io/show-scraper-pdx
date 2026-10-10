@@ -32,5 +32,16 @@ def sort_shows(shows: list[Show]) -> list[Show]:
     return sorted(shows, key=lambda s: (s.date, s.venue, s.title))
 
 
+def infer_year(month: int, day: int, today: date | None = None) -> int:
+    """Pick a year for a month/day that's given without one, on the
+    assumption the date is an upcoming show: if that date already fell more
+    than 60 days ago this year, it must mean next year instead."""
+    today = today or date.today()
+    candidate = date(today.year, month, day)
+    if (today - candidate).days > 60:
+        return today.year + 1
+    return today.year
+
+
 def to_json_ready(shows: list[Show]) -> list[dict]:
     return [asdict(s) for s in shows]

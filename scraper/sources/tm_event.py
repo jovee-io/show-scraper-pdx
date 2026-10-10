@@ -1,9 +1,4 @@
-"""Star Theater and Dante's both run the TicketWeb "tm-event" calendar plugin.
-Note: as of this writing, Dante's renders its calendar entirely client-side
-(the popup markup below is present in the page's CSS/JS but no event
-instances are server-rendered), so this currently yields zero shows for it --
-left in place since it costs nothing and will start working if that changes.
-"""
+"""Star Theater runs the TicketWeb "tm-event" calendar plugin."""
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -12,7 +7,7 @@ from ..shows import Show
 
 VENUES = [
     ("Star Theater", "https://startheaterportland.com/calendar/"),
-    ("Dante's", "https://danteslive.com/calendar/"),
+    ("Jack London Revue", "https://www.jacklondonrevue.com/calendar/"),
 ]
 
 
