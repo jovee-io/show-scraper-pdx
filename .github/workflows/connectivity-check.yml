@@ -1,0 +1,20 @@
+name: Connectivity check (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check blocked venues
+        run: |
+          for url in \
+            "https://kellysolympian.com/shows/" \
+            "https://friendsofnoise.org/event-calendar/" \
+            "https://thegoodfoot.com/events-overview/" \
+          ; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" -m 20 \
+              -A "Mozilla/5.0 (compatible; PortlandShowsBot/1.0)" "$url")
+            echo "$url -> $code"
+          done
