@@ -1,55 +1,6 @@
 [
   {
     "venue": "Alberta Street Pub",
-    "title": "Alberta After Hours - With Zephyr Phalseprofit Linch and more!",
-    "date": "2026-10-12",
-    "url": "https://www.albertastreetpub.com/music/2026/10/12/alberta-after-hours-with-zephyr-phalseprofit-linch-and-more",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
-    "date": "2026-10-12",
-    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Damien Jurado",
-    "date": "2026-10-12",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Swapmeet",
-    "date": "2026-10-12",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Iron & Wine",
-    "date": "2026-10-12",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "The Low Bar Chorale",
-    "date": "2026-10-12",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Square Dancing with Old Time Highway and Caller Caroline Oakley",
-    "date": "2026-10-12",
-    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-old-time-highway-and-caller-caroline-oakley/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-10-13",
     "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf",
@@ -301,13 +252,6 @@
     "time": ""
   },
   {
-    "venue": "The Get Down PDX",
-    "title": "City of the Sun",
-    "date": "2026-10-16",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/city-of-the-sun-198494",
-    "time": ""
-  },
-  {
     "venue": "The Showdown",
     "title": "Wicked Shallows and King Strang",
     "date": "2026-10-16",
@@ -533,7 +477,7 @@
   },
   {
     "venue": "Revolution Hall",
-    "title": "Gary Clark Jr.",
+    "title": "SOLD OUT: Gary Clark Jr.",
     "date": "2026-10-20",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -599,6 +543,13 @@
     "title": "Charlie Brown III and Friends",
     "date": "2026-10-21",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+    "date": "2026-10-21",
+    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-15/",
     "time": ""
   },
   {
@@ -952,13 +903,6 @@
     "time": ""
   },
   {
-    "venue": "Revolution Hall",
-    "title": "Eric Idle: Idle in Provence",
-    "date": "2026-10-27",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
     "venue": "Show Bar",
     "title": "Francis of Delirium",
     "date": "2026-10-27",
@@ -998,6 +942,20 @@
     "title": "SOLD OUT: Wednesday Night Special: Kyle Kinane (Early)",
     "date": "2026-10-28",
     "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Wednesday Night Special: Kyle Kinane (Late)",
+    "date": "2026-10-28",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Margo Cilker",
+    "date": "2026-10-28",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -1197,6 +1155,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Plini - An Unnameable Desire North American Tour",
+    "date": "2026-11-01",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Behind The Scene with The Christopher Brown Quartet",
     "date": "2026-11-01",
@@ -1222,6 +1187,13 @@
     "title": "Comedy & Monday Night Football With Hazel Dell Hottie",
     "date": "2026-11-02",
     "url": "https://www.albertastreetpub.com/music/2026/9/14/comedy-with-marsha",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Slothrust: The Dystopian Theatre Tour",
+    "date": "2026-11-02",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1645,6 +1617,13 @@
     "time": ""
   },
   {
+    "venue": "The Get Down PDX",
+    "title": "Shafty: Portland&#39;s Tribute to Phish (2 Nights - 11/24 &amp; 11/25)",
+    "date": "2026-11-24",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Emma Ruth Rundle - THESE KILLING TIMES",
     "date": "2026-11-25",
@@ -1663,6 +1642,27 @@
     "title": "CLOSED FOR THE HOLIDAY",
     "date": "2026-11-26",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "The Storm Large Holiday Ordeal (Night 1)",
+    "date": "2026-11-27",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAY",
+    "date": "2026-11-27",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
+    "title": "Garcia Birthday Band (Night 1 - 11/27)",
+    "date": "2026-11-27",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/garcia-birthday-band-night-1-11-27--209679",
     "time": ""
   }
 ]
