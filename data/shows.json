@@ -1,61 +1,5 @@
 [
   {
-    "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
-    "date": "2026-10-14",
-    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-tbbpe-gkh64",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "The Jungle Giants",
-    "date": "2026-10-14",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Renny Conti - Split Second Tour",
-    "date": "2026-10-14",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Diego Figueiredo",
-    "date": "2026-10-14",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "The 4 x 20s Comedy Show (seated show)",
-    "date": "2026-10-14",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-4-x-20s-comedy-show-seated-show--208688",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Country Waltz Lessons with Peggy and Derek",
-    "date": "2026-10-14",
-    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-14/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Whiskey Wednesday with Gabriel John Trio and Andy & JT",
-    "date": "2026-10-14",
-    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-special-guests-5/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "GLAIVE \u2013 GOD SAVE THE THREE TOUR",
-    "date": "2026-10-14",
-    "url": "https://wonderballroom.com/event/glaive-god-save-the-three-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Aladdin Theater",
     "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
     "date": "2026-10-15",
@@ -88,6 +32,20 @@
     "title": "Rin -  Dearest Diary Tour",
     "date": "2026-10-15",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Ashley Cooke: The Baby Blues Tour",
+    "date": "2026-10-15",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "SOLD OUT: Locked On Blazers Live Podcast",
+    "date": "2026-10-15",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -137,6 +95,20 @@
     "title": "Dos Santos",
     "date": "2026-10-16",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Two Dykes and a Mic: Soaking Wet Tour",
+    "date": "2026-10-16",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Alien Boy",
+    "date": "2026-10-16",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -203,6 +175,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Pattie Gonia: SAVE HER! Feat. Sequoia and VERA!",
+    "date": "2026-10-17",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Jack Radsliff Quartet",
     "date": "2026-10-17",
@@ -249,6 +228,20 @@
     "title": "Liz Longley",
     "date": "2026-10-18",
     "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Jim Henson\u2019s Labyrinth: In Concert 40th Anniversary",
+    "date": "2026-10-18",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Diles que no me maten",
+    "date": "2026-10-18",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -308,6 +301,13 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "PDX Songwriters Open Mic (FREE)",
+    "date": "2026-10-19",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The Showdown",
     "title": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
     "date": "2026-10-19",
@@ -347,6 +347,13 @@
     "title": "Danava - Yoko Bday Bash, 20th Anniversary of 'Danava'",
     "date": "2026-10-20",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Gary Clark Jr.",
+    "date": "2026-10-20",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -399,6 +406,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Digable Planets - Blowout Comb 30th Anniversary Tour",
+    "date": "2026-10-21",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Charlie Brown III and Friends",
     "date": "2026-10-21",
@@ -441,6 +455,20 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Dinosaur Jr. - Fall Tour 2026",
+    "date": "2026-10-22",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "How Strange It Is (Album Release)",
+    "date": "2026-10-22",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Elsa Nilsson - Band of Pulses",
     "date": "2026-10-22",
@@ -452,6 +480,13 @@
     "title": "Poor Man&#39;s Whiskey - Dark Side of the Moonshine",
     "date": "2026-10-22",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/poor-man-s-whiskey-dark-side-of-the-moonshine-199281",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "India Ramey and The Waymores with Pati Rojas Band",
+    "date": "2026-10-22",
+    "url": "https://www.showdownpdx.com/tm-event/india-ramey-and-the-waymores-with-pati-rojas-band/",
     "time": ""
   },
   {
@@ -511,6 +546,20 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Slow Pulp",
+    "date": "2026-10-23",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Resavoir",
+    "date": "2026-10-23",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Buster Williams Trio with Domo Branch and George Colligan",
     "date": "2026-10-23",
@@ -522,6 +571,13 @@
     "title": "Cut Chemist - &quot;Disco is Dead&quot; (12&quot; Vinyl Set)",
     "date": "2026-10-23",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/cut-chemist-disco-is-dead-12-vinyl-set--201504",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "LASKA & Friends Friends & Shore Pines",
+    "date": "2026-10-23",
+    "url": "https://www.showdownpdx.com/tm-event/laska-friends-friends-shore-pines/",
     "time": ""
   },
   {
@@ -564,6 +620,20 @@
     "title": "Laura Veirs",
     "date": "2026-10-24",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Pigeons Playing Ping Pong - Fall Tour 2026",
+    "date": "2026-10-24",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Dead Astaire",
+    "date": "2026-10-24",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -617,9 +687,16 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "Freak Slug",
+    "title": "SOLD OUT: Freak Slug",
     "date": "2026-10-25",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "The Dillinger Escape Plan - Final Calculating Infinity Shows",
+    "date": "2026-10-25",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -665,6 +742,20 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "George Clanton",
+    "date": "2026-10-26",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Faux Real",
+    "date": "2026-10-26",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Joy Oladokun: The Heavy Things Tour",
     "date": "2026-10-27",
@@ -707,6 +798,13 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "Francis of Delirium",
+    "date": "2026-10-27",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "bunii \u2013 BUNIIVERSITY TOUR",
     "date": "2026-10-27",
@@ -743,7 +841,7 @@
   },
   {
     "venue": "Mississippi Studios",
-    "title": "Wednesday Night Special: Kyle Kinane (Late)",
+    "title": "SOLD OUT: Wednesday Night Special: Kyle Kinane (Late)",
     "date": "2026-10-28",
     "url": "https://mississippistudios.com/",
     "time": ""
@@ -753,6 +851,13 @@
     "title": "Margo Cilker",
     "date": "2026-10-28",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Team Dresch (Record Release Show)",
+    "date": "2026-10-28",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -795,6 +900,13 @@
     "title": "SOLD OUT: Olive Klug",
     "date": "2026-10-29",
     "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "RESCHEDULED TO 3/29/27: Death From Above 1979 - Private Lives Tour",
+    "date": "2026-10-29",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -844,6 +956,34 @@
     "title": "Floater",
     "date": "2026-10-30",
     "url": "https://www.crystalballroompdx.com/events/277822-floater/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Gilla Band",
+    "date": "2026-10-30",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "The Wldlfe",
+    "date": "2026-10-30",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Glitterfox - The New Frontier",
+    "date": "2026-10-30",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "DICE",
+    "date": "2026-10-30",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -938,6 +1078,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Plini - An Unnameable Desire North American Tour",
+    "date": "2026-11-01",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Behind The Scene with The Christopher Brown Quartet",
     "date": "2026-11-01",
@@ -966,6 +1113,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Slothrust: The Dystopian Theatre Tour",
+    "date": "2026-11-02",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Greg Freeman",
     "date": "2026-11-03",
@@ -977,6 +1131,20 @@
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-11-03",
     "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-4prg2-ksf9f-2jrzr-9sxzd-b8xet-kywd9",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "AN EVENING WITH JOHN SCOFIELD\u2019S \u201cELECTROSPECTIVE\u201d",
+    "date": "2026-11-03",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Cardinal Bloom - Burn the House Tour",
+    "date": "2026-11-03",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -998,6 +1166,13 @@
     "title": "Isaiah Rashad",
     "date": "2026-11-04",
     "url": "https://www.crystalballroompdx.com/events/278684-isaiah-rashad/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "The People's Jam (FREE)",
+    "date": "2026-11-04",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1394,7 +1569,7 @@
   },
   {
     "venue": "The Get Down PDX",
-    "title": "Shafty: Portland&#39;s Tribute to Phish (2 Nights - 11/24 &amp; 11/25)",
+    "title": "Shafty: Portland&#39;s Tribute to Phish (Night 1 - 11/24)",
     "date": "2026-11-24",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
     "time": ""
@@ -1411,6 +1586,13 @@
     "title": "Greaterkind",
     "date": "2026-11-25",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
+    "title": "Shafty: Portland&#39;s Tribute to Phish (Night 2 - 11/25)",
+    "date": "2026-11-25",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
     "time": ""
   },
   {
@@ -1467,6 +1649,48 @@
     "title": "J-Fell & Nite Wave present: The Cure, Depeche Mode & New Order Tribute Night",
     "date": "2026-11-28",
     "url": "https://wonderballroom.com/event/j-fell-nite-wave-present-the-cure-depeche-mode-new-order-tribute-night/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "SOLD OUT: Marc Maron: Yammering into the Void Tour",
+    "date": "2026-11-29",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "SOLD OUT: Marc Maron: Yammering into the Void Tour (Early Show)",
+    "date": "2026-11-29",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Soda Jinx // Jay and Hex // Gregory James Mckillop",
+    "date": "2026-11-29",
+    "url": "https://www.albertastreetpub.com/music/2026/11/29/soda-jinx-jay-and-hex-gregory-james-mckillop",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Mel Brown B3 Organ Group",
+    "date": "2026-11-29",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
+    "title": "40 Oz To Freedom - Sublime Tribute Band",
+    "date": "2026-11-29",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/40-oz-to-freedom-sublime-tribute-band-211092",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "Jalen Ngonda: Doctrine of Love Tour",
+    "date": "2026-11-29",
+    "url": "https://wonderballroom.com/event/jalen-ngonda-doctrine-of-love-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   }
 ]
