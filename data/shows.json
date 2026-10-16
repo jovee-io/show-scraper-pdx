@@ -1,69 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
-    "date": "2026-10-15",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Fern Spores",
-    "date": "2026-10-15",
-    "url": "https://www.albertastreetpub.com/music/2026/10/15/fern-spores",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Tinlicker",
-    "date": "2026-10-15",
-    "url": "https://www.crystalballroompdx.com/events/276201-tinlicker/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Dave Alvin: New and Old Songs w/ Chris Miller",
-    "date": "2026-10-15",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Rin -  Dearest Diary Tour",
-    "date": "2026-10-15",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Ashley Cooke: The Baby Blues Tour",
-    "date": "2026-10-15",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "SOLD OUT: Locked On Blazers Live Podcast",
-    "date": "2026-10-15",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Kerry Politzer and Bossa PDX",
-    "date": "2026-10-15",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Friends in Low Places Presents: Line Dance Pre-Party",
-    "date": "2026-10-15",
-    "url": "https://www.showdownpdx.com/tm-event/friends-in-low-places-presents-line-dance-pre-party/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Hovvdy",
     "date": "2026-10-16",
     "url": "https://aladdin-theater.com/",
@@ -77,15 +14,8 @@
     "time": ""
   },
   {
-    "venue": "Crystal Ballroom",
-    "title": "DJ Shadow Celebrates 30 Years of Endtroducing",
-    "date": "2026-10-16",
-    "url": "https://www.crystalballroompdx.com/events/276641-dj-shadow-celebrates-30-years-of-endtroducing/",
-    "time": ""
-  },
-  {
     "venue": "Mississippi Studios",
-    "title": "TURNSTILES: An Epic Billy Joel Singalong",
+    "title": "SOLD OUT: TURNSTILES: An Epic Billy Joel Singalong",
     "date": "2026-10-16",
     "url": "https://mississippistudios.com/",
     "time": ""
@@ -267,7 +197,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "SOLD OUT: This is Lorelei",
+    "title": "This is Lorelei",
     "date": "2026-10-19",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -309,7 +239,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
+    "title": "Square Dancing with Probably Polly String Band and Caller Andy Grummon / KARAOKE @ 9:30",
     "date": "2026-10-19",
     "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-probably-polly-string-band-and-caller-andy-grummon/",
     "time": ""
@@ -651,6 +581,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "The Wildwoods",
+    "date": "2026-10-24",
+    "url": "https://www.showdownpdx.com/tm-event/the-wildwoods/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Knox",
     "date": "2026-10-24",
@@ -911,7 +848,7 @@
   },
   {
     "venue": "The 1905",
-    "title": "Cory Limuaco and Friends",
+    "title": "Cory Limuaco Tribute to Herbie Hancock",
     "date": "2026-10-29",
     "url": "https://www.the1905jazz.club/",
     "time": ""
@@ -960,7 +897,7 @@
   },
   {
     "venue": "Mississippi Studios",
-    "title": "Gilla Band",
+    "title": "SOLD OUT: Gilla Band",
     "date": "2026-10-30",
     "url": "https://mississippistudios.com/",
     "time": ""
@@ -1036,6 +973,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Katie Pruitt - Fools For The Fleeting Tour",
+    "date": "2026-10-31",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Nick Rolfe and Co Halloween Party",
     "date": "2026-10-31",
@@ -1075,6 +1019,13 @@
     "title": "THE HOT LOVIN' JAZZ BABIES",
     "date": "2026-11-01",
     "url": "https://www.albertastreetpub.com/music/2024/1/19/the-hot-lovin-jazz-babies-4dfwg-92l78-fsxn9-jhxn5-zgypl-7c8p9-9j8h7",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "SOLD OUT: Lime Garden",
+    "date": "2026-11-01",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1169,6 +1120,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Bahamas - Industrial Sport & Sound",
+    "date": "2026-11-04",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "The People's Jam (FREE)",
     "date": "2026-11-04",
@@ -1187,6 +1145,20 @@
     "title": "Jake Xerxes Fussell",
     "date": "2026-11-05",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "First Thursday Crafts & Cocktails",
+    "date": "2026-11-05",
+    "url": "https://www.crystalballroompdx.com/events/278622-first-thursday-crafts-cocktails/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Brandi Carlile: Burn The Setlist (The All Request Tour)",
+    "date": "2026-11-05",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1215,6 +1187,13 @@
     "title": "Kathy Griffin: New face, New tour",
     "date": "2026-11-06",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "First Thursday Crafts & Cocktails",
+    "date": "2026-11-06",
+    "url": "https://www.crystalballroompdx.com/events/278640-first-thursday-crafts-cocktails/",
     "time": ""
   },
   {
