@@ -1,68 +1,5 @@
 [
   {
-    "venue": "Aladdin Theater",
-    "title": "Hovvdy",
-    "date": "2026-10-16",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Eel Sallad // Sean Mclean & the Vibetenders",
-    "date": "2026-10-16",
-    "url": "https://www.albertastreetpub.com/music/2026/10/16/eel-sallad-sean-mclean-amp-the-vibetenders",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: TURNSTILES: An Epic Billy Joel Singalong",
-    "date": "2026-10-16",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Dos Santos",
-    "date": "2026-10-16",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Two Dykes and a Mic: Soaking Wet Tour",
-    "date": "2026-10-16",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Alien Boy",
-    "date": "2026-10-16",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Farnell Newton's The Soul of Jazz",
-    "date": "2026-10-16",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Mike Burton and Good Time Horns Late Night Jam",
-    "date": "2026-10-16",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Wicked Shallows and King Strang",
-    "date": "2026-10-16",
-    "url": "https://www.showdownpdx.com/tm-event/wicked-shallows-and-king-strang/",
-    "time": ""
-  },
-  {
     "venue": "Alberta Street Pub",
     "title": "Drag Brunch Hosted by Nicoleonoscopi!",
     "date": "2026-10-17",
@@ -197,7 +134,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "This is Lorelei",
+    "title": "SOLD OUT: This is Lorelei",
     "date": "2026-10-19",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -651,6 +588,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Casual Eddie",
+    "date": "2026-10-25",
+    "url": "https://www.showdownpdx.com/tm-event/casual-eddie-3/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "You Should Be Dancing \u2013 A Tribute to the Bee Gees",
     "date": "2026-10-26",
@@ -1064,6 +1008,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "SOLD OUT: Big Star Quintet (Night 1)",
+    "date": "2026-11-02",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Mdou Moctar (Solo)",
+    "date": "2026-11-02",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Slothrust: The Dystopian Theatre Tour",
     "date": "2026-11-02",
@@ -1194,6 +1152,20 @@
     "title": "First Thursday Crafts & Cocktails",
     "date": "2026-11-06",
     "url": "https://www.crystalballroompdx.com/events/278640-first-thursday-crafts-cocktails/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Jimmie Herrod, Black Belt Eagle Scout & Nick Jaina Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
+    "date": "2026-11-06",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Railroad Earth",
+    "date": "2026-11-06",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1670,6 +1642,13 @@
     "title": "Jalen Ngonda: Doctrine of Love Tour",
     "date": "2026-11-29",
     "url": "https://wonderballroom.com/event/jalen-ngonda-doctrine-of-love-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "A John Waters Christmas",
+    "date": "2026-12-01",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   }
 ]
