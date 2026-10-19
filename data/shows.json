@@ -1,76 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "The Okee Dokee Brothers",
-    "date": "2026-10-18",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Jack Maybe Project // Grumble and the Ghost",
-    "date": "2026-10-18",
-    "url": "https://www.albertastreetpub.com/music/2026/10/18/jack-maybe-project-grumble-and-the-ghost",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "SOULFUL SUNDAYS featuring Santiago & Friends",
-    "date": "2026-10-18",
-    "url": "https://www.albertastreetpub.com/music/2023/3/5/soulful-sundays-p3a5l-3wl64-twxnj-wkacn-lc8tr-gphsj-x73af-5meh3-6cspz-9z8kp-wtz8c-47fe8-ekh63-lxhbe-7z8f3-e3gab-abftn",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Charles Wesley Godwin",
-    "date": "2026-10-18",
-    "url": "https://www.crystalballroompdx.com/events/276944-charles-wesley-godwin/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Liz Longley",
-    "date": "2026-10-18",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Jim Henson\u2019s Labyrinth: In Concert 40th Anniversary",
-    "date": "2026-10-18",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Diles que no me maten",
-    "date": "2026-10-18",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Mel Brown B3 Organ Group",
-    "date": "2026-10-18",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Casual Eddie",
-    "date": "2026-10-18",
-    "url": "https://www.showdownpdx.com/tm-event/casual-eddie-2/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "*Postponed* SiM \u2013 HOOMAN WORLD TOUR",
-    "date": "2026-10-18",
-    "url": "https://wonderballroom.com/event/postponed-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "SOLD OUT: This is Lorelei",
     "date": "2026-10-19",
     "url": "https://aladdin-theater.com/",
@@ -99,7 +29,7 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "Flower Face",
+    "title": "SOLD OUT: Flower Face",
     "date": "2026-10-19",
     "url": "https://polarishall.com/",
     "time": ""
@@ -113,7 +43,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Square Dancing with Probably Polly String Band and Caller Andy Grummon / KARAOKE @ 9:30",
+    "title": "Square Dancing with Probably Poly String Band and Caller Andy Grummon / KARAOKE @ 9:30",
     "date": "2026-10-19",
     "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-probably-polly-string-band-and-caller-andy-grummon/",
     "time": ""
@@ -630,6 +560,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
+    "date": "2026-10-27",
+    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-the-tom-armstrong-band-and-dance-lessons-with-peggy-and-peter/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "bunii \u2013 BUNIIVERSITY TOUR",
     "date": "2026-10-27",
@@ -1036,6 +973,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Improvement Movement - Your Perfect Real LIVE '26",
+    "date": "2026-11-04",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Bahamas - Industrial Sport & Sound",
     "date": "2026-11-04",
@@ -1183,6 +1127,20 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Anna Tivel, Willy Vlautin & Wonderly Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
+    "date": "2026-11-07",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Quadeca",
+    "date": "2026-11-07",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Late Show with Noah Mortola",
     "date": "2026-11-07",
@@ -1250,6 +1208,13 @@
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-11-10",
     "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "The Black Angels",
+    "date": "2026-11-10",
+    "url": "https://www.crystalballroompdx.com/events/276344-the-black-angels/",
     "time": ""
   },
   {
@@ -1526,6 +1491,13 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Video Goth Night",
+    "date": "2026-11-21",
+    "url": "https://www.albertastreetpub.com/music/2026/3/21/video-goth-night",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Kareem Kandi with Ali Jackson",
     "date": "2026-11-21",
@@ -1698,6 +1670,20 @@
     "title": "1788-L",
     "date": "2026-12-02",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/1788-l-209111",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Zepparella the Led Zeppelin Powerhouse",
+    "date": "2026-12-03",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Aimee Nolte Quartet",
+    "date": "2026-12-03",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   }
 ]
