@@ -1,61 +1,5 @@
 [
   {
-    "venue": "Aladdin Theater",
-    "title": "SOLD OUT: This is Lorelei",
-    "date": "2026-10-19",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Ben Rice & The PDX Hustle",
-    "date": "2026-10-19",
-    "url": "https://www.albertastreetpub.com/music/2026/1/19/ben-rice-amp-the-pdx-hustle",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
-    "date": "2026-10-19",
-    "url": "https://www.albertastreetpub.com/music/2026/10/19/comedy-amp-monday-night-football-with-hazel-dell-hottie",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Izaak Opatz",
-    "date": "2026-10-19",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: Flower Face",
-    "date": "2026-10-19",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "PDX Songwriters Open Mic (FREE)",
-    "date": "2026-10-19",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Square Dancing with Probably Poly String Band and Caller Andy Grummon / KARAOKE @ 9:30",
-    "date": "2026-10-19",
-    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-probably-polly-string-band-and-caller-andy-grummon/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "The Blasting Company plays Over The Garden Wall",
-    "date": "2026-10-19",
-    "url": "https://wonderballroom.com/event/the-blasting-company-plays-over-the-garden-wall/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Alberta Street Pub",
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-10-20",
@@ -113,7 +57,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "Frog",
+    "title": "SOLD OUT: Frog",
     "date": "2026-10-21",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -190,7 +134,7 @@
   },
   {
     "venue": "Revolution Hall",
-    "title": "SOLD OUT: Dinosaur Jr. - Fall Tour 2026",
+    "title": "Dinosaur Jr. - Fall Tour 2026",
     "date": "2026-10-22",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -561,7 +505,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
+    "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
     "date": "2026-10-27",
     "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-the-tom-armstrong-band-and-dance-lessons-with-peggy-and-peter/",
     "time": ""
@@ -624,7 +568,7 @@
   },
   {
     "venue": "The 1905",
-    "title": "Creative Music Guild Presents: Akila Fields Trio w/ Special Guest Noah Bernstein",
+    "title": "Akila Fields Trio w/ Special Guest Noah Bernstein",
     "date": "2026-10-28",
     "url": "https://www.the1905jazz.club/",
     "time": ""
@@ -634,6 +578,13 @@
     "title": "Son Rompe Pera",
     "date": "2026-10-28",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/son-rompe-pera-202840",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+    "date": "2026-10-28",
+    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-16/",
     "time": ""
   },
   {
@@ -980,6 +931,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "IAN SWEET",
+    "date": "2026-11-04",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Bahamas - Industrial Sport & Sound",
     "date": "2026-11-04",
@@ -1012,6 +970,13 @@
     "title": "First Thursday Crafts & Cocktails",
     "date": "2026-11-05",
     "url": "https://www.crystalballroompdx.com/events/278622-first-thursday-crafts-cocktails/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "LUCY (Cooper B. Handy)",
+    "date": "2026-11-05",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1166,6 +1131,13 @@
     "title": "Warren Miller's \"Days Off\"",
     "date": "2026-11-08",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "The Tallest Man on Earth",
+    "date": "2026-11-08",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1684,6 +1656,34 @@
     "title": "Aimee Nolte Quartet",
     "date": "2026-12-03",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Cat Clyde & Dean Johnson",
+    "date": "2026-12-04",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Nick Rolfe & Co.",
+    "date": "2026-12-04",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
+    "title": "The Fretliners - When The Kettle Sings Tour",
+    "date": "2026-12-04",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-fretliners-when-the-kettle-sings-tour-201773",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "New Constellations: It Comes In Waves Tour",
+    "date": "2026-12-04",
+    "url": "https://wonderballroom.com/event/new-constellations-it-comes-in-waves-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   }
 ]
