@@ -1,61 +1,5 @@
 [
   {
-    "venue": "Alberta Street Pub",
-    "title": "Bridgetown Trivia on the Heated Patio!",
-    "date": "2026-10-20",
-    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-nstwg",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Etta Dean // Aslin // Olivia Lyon",
-    "date": "2026-10-20",
-    "url": "https://www.albertastreetpub.com/music/2026/10/20/etta-dean",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Dummy",
-    "date": "2026-10-20",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Danava - Yoko Bday Bash, 20th Anniversary of 'Danava'",
-    "date": "2026-10-20",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Gary Clark Jr.",
-    "date": "2026-10-20",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Alborosie",
-    "date": "2026-10-20",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/alborosie-193491",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
-    "date": "2026-10-20",
-    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-best-intentions-and-dance-lessons-with-peggy-and-peter/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "MOVED TO ROSELAND THEATER: Julia Wolf \u2013 Deep End World Tour",
-    "date": "2026-10-20",
-    "url": "https://wonderballroom.com/event/moved-to-roseland-theater-julia-wolf-deep-end-world-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Aladdin Theater",
     "title": "SOLD OUT: Frog",
     "date": "2026-10-21",
@@ -134,7 +78,7 @@
   },
   {
     "venue": "Revolution Hall",
-    "title": "Dinosaur Jr. - Fall Tour 2026",
+    "title": "SOLD OUT: Dinosaur Jr. - Fall Tour 2026",
     "date": "2026-10-22",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -330,7 +274,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "The Wildwoods",
+    "title": "The Wildwoods with Aika Collins",
     "date": "2026-10-24",
     "url": "https://www.showdownpdx.com/tm-event/the-wildwoods/",
     "time": ""
@@ -449,9 +393,9 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Abby Webster & Her Imaginary Band with Rodeo Wilson and West Coast Country Superstars",
+    "title": "Square Dancing with Bex Bee and the Old Time String Band",
     "date": "2026-10-26",
-    "url": "https://www.showdownpdx.com/tm-event/abby-webster-2/",
+    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-bex-bee-and-the-old-time-string-band/",
     "time": ""
   },
   {
@@ -585,6 +529,13 @@
     "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
     "date": "2026-10-28",
     "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-16/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Whiskey Wednesday with Brookyln Del and the Revelators and Temple Grandin",
+    "date": "2026-10-28",
+    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-brookyln-del-and-the-revelators/",
     "time": ""
   },
   {
@@ -980,6 +931,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Jeffrey Martin",
+    "date": "2026-11-05",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Brandi Carlile: Burn The Setlist (The All Request Tour)",
     "date": "2026-11-05",
@@ -1026,6 +984,13 @@
     "title": "First Thursday Crafts & Cocktails",
     "date": "2026-11-06",
     "url": "https://www.crystalballroompdx.com/events/278640-first-thursday-crafts-cocktails/",
+    "time": ""
+  },
+  {
+    "venue": "Literary Arts",
+    "title": "Jimmie Herrod, Black Belt Eagle Scout & Nick Jaina Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
+    "date": "2026-11-06",
+    "url": "https://www.etix.com/ticket/p/72899526/jimmie-herrodblack-belt-eagle-scout-nick-jaina-accompanied-by-45th-parallel-string-quartetsight-reading-musical-dialects-portland-first-congregational-united-church-of-christ",
     "time": ""
   },
   {
@@ -1136,6 +1101,13 @@
   {
     "venue": "Revolution Hall",
     "title": "The Tallest Man on Earth",
+    "date": "2026-11-08",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Sparta",
     "date": "2026-11-08",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -1275,7 +1247,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "Son Volt",
+    "title": "SOLD OUT: Son Volt",
     "date": "2026-11-14",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -1684,6 +1656,27 @@
     "title": "New Constellations: It Comes In Waves Tour",
     "date": "2026-12-04",
     "url": "https://wonderballroom.com/event/new-constellations-it-comes-in-waves-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Matt Rogers: THIS TIME IT\u2019S *REALLY* CHRISTMAS Tour",
+    "date": "2026-12-05",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "A Charlie Brown Christmas with Dan Davey and Friends",
+    "date": "2026-12-05",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "feeble little horse \u2013 bitknot tour",
+    "date": "2026-12-05",
+    "url": "https://wonderballroom.com/event/feeble-little-horse-bitknot-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   }
 ]
