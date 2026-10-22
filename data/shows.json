@@ -1,68 +1,5 @@
 [
   {
-    "venue": "Aladdin Theater",
-    "title": "SOLD OUT: Frog",
-    "date": "2026-10-21",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
-    "date": "2026-10-21",
-    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Red Shahan",
-    "date": "2026-10-21",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "REZN - Cycles in the Infinite Dream Tour",
-    "date": "2026-10-21",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Digable Planets - Blowout Comb 30th Anniversary Tour",
-    "date": "2026-10-21",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Charlie Brown III and Friends",
-    "date": "2026-10-21",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
-    "date": "2026-10-21",
-    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-15/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-    "date": "2026-10-21",
-    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-william-surly-the-barroom-gospel-and-keston-brouillette-the-pickled-hearts-5/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "SLIFT",
-    "date": "2026-10-21",
-    "url": "https://wonderballroom.com/event/slift-2/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Alberta Street Pub",
     "title": "Max Minardi // Arran Fagan",
     "date": "2026-10-22",
@@ -393,7 +330,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Square Dancing with Bex Bee and the Old Time String Band",
+    "title": "Square Dancing with Bex Bee and the Old Time String Band / KARAOKE @ 9:30",
     "date": "2026-10-26",
     "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-bex-bee-and-the-old-time-string-band/",
     "time": ""
@@ -498,7 +435,7 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "Margo Cilker",
+    "title": "SOLD OUT: Margo Cilker",
     "date": "2026-10-28",
     "url": "https://polarishall.com/",
     "time": ""
@@ -588,6 +525,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Halloween Barn Dance with Silk & Steel",
+    "date": "2026-10-29",
+    "url": "https://www.showdownpdx.com/tm-event/halloween-barn-dance-with-silk-steel/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Rebecca Black: Exhibitionism on Tour",
     "date": "2026-10-29",
@@ -662,6 +606,13 @@
     "title": "Steely Dead - A Sonic Fusion of the Grateful Dead and Steely Dan",
     "date": "2026-10-30",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/steely-dead-a-sonic-fusion-of-the-grateful-dead-and-steely-dan-197334",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Jackstraw with Mark Tegio",
+    "date": "2026-10-30",
+    "url": "https://www.showdownpdx.com/tm-event/jackstraw-and-the-last-wild-buffalo-and-mark-tegio/",
     "time": ""
   },
   {
@@ -994,6 +945,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "SOLD OUT: mary in the junkyard",
+    "date": "2026-11-06",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Murray Hill - Showbiz! The Tour",
+    "date": "2026-11-06",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Jimmie Herrod, Black Belt Eagle Scout & Nick Jaina Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
     "date": "2026-11-06",
@@ -1138,6 +1103,13 @@
     "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
     "date": "2026-11-09",
     "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 1)",
+    "date": "2026-11-09",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1421,6 +1393,13 @@
     "time": ""
   },
   {
+    "venue": "Wonder Ballroom",
+    "title": "Growing Pains",
+    "date": "2026-11-20",
+    "url": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Paula Poundstone",
     "date": "2026-11-21",
@@ -1677,6 +1656,34 @@
     "title": "feeble little horse \u2013 bitknot tour",
     "date": "2026-12-05",
     "url": "https://wonderballroom.com/event/feeble-little-horse-bitknot-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Pete Yorn solo acoustic - 25th Anniversary of musicforthemorningafter",
+    "date": "2026-12-06",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Behind The Scene with The Christopher Brown Quartet",
+    "date": "2026-12-06",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR PRIVATE EVENT",
+    "date": "2026-12-06",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "**MOVED TO ROSELAND THEATER** FROST CHILDREN",
+    "date": "2026-12-06",
+    "url": "https://wonderballroom.com/event/moved-to-roseland-theater-frost-children/wonder-ballroom/portland-oregon/",
     "time": ""
   }
 ]
