@@ -1,68 +1,5 @@
 [
   {
-    "venue": "Alberta Street Pub",
-    "title": "Max Minardi // Arran Fagan",
-    "date": "2026-10-22",
-    "url": "https://www.albertastreetpub.com/music/2026/10/22/max-minardi",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "The Fourth Wall",
-    "date": "2026-10-22",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Dinosaur Jr. - Fall Tour 2026",
-    "date": "2026-10-22",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "How Strange It Is (Album Release)",
-    "date": "2026-10-22",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Elsa Nilsson - Band of Pulses",
-    "date": "2026-10-22",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Poor Man&#39;s Whiskey - Dark Side of the Moonshine",
-    "date": "2026-10-22",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/poor-man-s-whiskey-dark-side-of-the-moonshine-199281",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "India Ramey and The Waymores with Pati Rojas Band",
-    "date": "2026-10-22",
-    "url": "https://www.showdownpdx.com/tm-event/india-ramey-and-the-waymores-with-pati-rojas-band/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "NICE AS F*#K  \u2013 BACK AS F*#K NICE AS EVER",
-    "date": "2026-10-22",
-    "url": "https://wonderballroom.com/event/nice-as-fk-back-as-fk-nice-as-ever-2/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "NICE AS F*#K \u2013 BACK AS F*#K NICE AS EVER",
-    "date": "2026-10-22",
-    "url": "https://wonderballroom.com/event/nice-as-fk-back-as-fk-nice-as-ever/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Aladdin Theater",
     "title": "Twin Peaks: A Conversation With The Stars",
     "date": "2026-10-23",
@@ -400,7 +337,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "REEL ROCK 20",
+    "title": "SOLD OUT: REEL ROCK 20",
     "date": "2026-10-28",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -676,6 +613,13 @@
     "title": "The Funk Hunters",
     "date": "2026-10-31",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-funk-hunters-201501",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "HALLOW'S EVE PURO PARI! w/DRECKIG, Karma Rivera, and  DJ's Omie and Velvet Ginger",
+    "date": "2026-10-31",
+    "url": "https://www.showdownpdx.com/tm-event/hallows-eve-puro-pari-w-dreckig-djs-velvet-ginger-omie-disco-diablo/",
     "time": ""
   },
   {
@@ -1022,6 +966,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Shamanic Sound Healing: a Portal Experience",
+    "date": "2026-11-07",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Anna Tivel, Willy Vlautin & Wonderly Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
     "date": "2026-11-07",
@@ -1134,6 +1085,13 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 2)",
+    "date": "2026-11-10",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The Get Down PDX",
     "title": "River Shook",
     "date": "2026-11-10",
@@ -1152,6 +1110,13 @@
     "title": "Wednesday Night Social - Cigars, Dominos & Music",
     "date": "2026-11-11",
     "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-tbbpe-gkh64",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Lady Killers hosted by Ally J Ward & Devan Daily",
+    "date": "2026-11-11",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1267,6 +1232,13 @@
     "time": ""
   },
   {
+    "venue": "The Get Down PDX",
+    "title": "Rooted in Gratitude with CUUHRAIG, STONE II, CEEFOE, UCESKIZII &amp; more",
+    "date": "2026-11-15",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/rooted-in-gratitude-with-cuuhraig-stone-ii-ceefoe-uceskizii-more-212129",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "SUECO",
     "date": "2026-11-15",
@@ -1310,9 +1282,9 @@
   },
   {
     "venue": "Wonder Ballroom",
-    "title": "The Residents \u2013 Eskimo Live! Tour",
+    "title": "*CANCELLED* The Residents \u2013 Eskimo Live! Tour",
     "date": "2026-11-17",
-    "url": "https://wonderballroom.com/event/the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
+    "url": "https://wonderballroom.com/event/cancelled-the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   },
   {
@@ -1684,6 +1656,13 @@
     "title": "**MOVED TO ROSELAND THEATER** FROST CHILDREN",
     "date": "2026-12-06",
     "url": "https://wonderballroom.com/event/moved-to-roseland-theater-frost-children/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "TINY HABITS \u2013 The Keepers Tour",
+    "date": "2026-12-07",
+    "url": "https://wonderballroom.com/event/tiny-habits-the-keepers-tour/wonder-ballroom/portland-oregon/",
     "time": ""
   }
 ]
