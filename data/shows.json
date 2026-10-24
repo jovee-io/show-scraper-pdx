@@ -1,83 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Twin Peaks: A Conversation With The Stars",
-    "date": "2026-10-23",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "R.O.T.R. Presents: Mat Randol with openers K-Penn // DC Capital // Lonzo Banks // Shiloh Day // K.Monae // Kenntoh with DJ set by iamopsyris",
-    "date": "2026-10-23",
-    "url": "https://www.albertastreetpub.com/music/2026/10/23/certified-lover-girls-entertainment-party",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "TITS UP",
-    "date": "2026-10-23",
-    "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-6745k",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "90s vs 2000s Halloween Costume Glow Ball",
-    "date": "2026-10-23",
-    "url": "https://www.crystalballroompdx.com/events/278005-90s-vs-2000s-halloween-costume-glow-ball/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Tom Hamilton Band",
-    "date": "2026-10-23",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Bedouine",
-    "date": "2026-10-23",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Slow Pulp",
-    "date": "2026-10-23",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Resavoir",
-    "date": "2026-10-23",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Buster Williams Trio with Domo Branch and George Colligan",
-    "date": "2026-10-23",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Cut Chemist - &quot;Disco is Dead&quot; (12&quot; Vinyl Set)",
-    "date": "2026-10-23",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/cut-chemist-disco-is-dead-12-vinyl-set--201504",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "LASKA & Friends Friends & Shore Pines",
-    "date": "2026-10-23",
-    "url": "https://www.showdownpdx.com/tm-event/laska-friends-friends-shore-pines/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Theo Katzman",
     "date": "2026-10-24",
     "url": "https://aladdin-theater.com/",
@@ -672,6 +595,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Casual Eddie",
+    "date": "2026-11-01",
+    "url": "https://www.showdownpdx.com/tm-event/casual-eddie-4/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "King Buffalo",
     "date": "2026-11-02",
@@ -966,6 +896,20 @@
     "time": ""
   },
   {
+    "venue": "Literary Arts",
+    "title": "Anna Tivel, Willy Vlautin & Wonderly Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
+    "date": "2026-11-07",
+    "url": "https://www.etix.com/ticket/p/70726588/anna-tivelwilly-vlautin-wonderly-accompanied-by-45th-parallel-string-quartetsight-reading-musical-dialects-portland-first-congregational-united-church-of-christ",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "SOLD OUT: Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 1)",
+    "date": "2026-11-07",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Polaris Hall",
     "title": "Shamanic Sound Healing: a Portal Experience",
     "date": "2026-11-07",
@@ -1113,6 +1057,20 @@
     "time": ""
   },
   {
+    "venue": "Crystal Ballroom",
+    "title": "Nekrogoblikon",
+    "date": "2026-11-11",
+    "url": "https://www.crystalballroompdx.com/events/277142-nekrogoblikon/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Tank and the Bangas",
+    "date": "2026-11-11",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "Lady Killers hosted by Ally J Ward & Devan Daily",
     "date": "2026-11-11",
@@ -1127,6 +1085,13 @@
     "time": ""
   },
   {
+    "venue": "The Get Down PDX",
+    "title": "The 4 x 20s Comedy Show (seated show)",
+    "date": "2026-11-11",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-4-x-20s-comedy-show-seated-show--212216",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Lucy Bedroque",
     "date": "2026-11-11",
@@ -1134,8 +1099,15 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 1)",
+    "date": "2026-11-12",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
-    "title": "Trio of Boom",
+    "title": "Galen Clark & Peter Knudsen Present: Trio of Boom",
     "date": "2026-11-12",
     "url": "https://www.the1905jazz.club/",
     "time": ""
