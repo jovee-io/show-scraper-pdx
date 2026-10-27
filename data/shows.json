@@ -1,55 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "You Should Be Dancing \u2013 A Tribute to the Bee Gees",
-    "date": "2026-10-26",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
-    "date": "2026-10-26",
-    "url": "https://www.albertastreetpub.com/music/2026/10/26/comedy-amp-monday-night-football-with-hazel-dell-hottie",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Julia Jacklin",
-    "date": "2026-10-26",
-    "url": "https://www.crystalballroompdx.com/events/277068-julia-jacklin/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Twenty years of We Are Scientists - Celebrating the 20th Anniversary of 'With Love and Squalor'",
-    "date": "2026-10-26",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "George Clanton",
-    "date": "2026-10-26",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Faux Real",
-    "date": "2026-10-26",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Square Dancing with Bex Bee and the Old Time String Band / KARAOKE @ 9:30",
-    "date": "2026-10-26",
-    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-bex-bee-and-the-old-time-string-band/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "SOLD OUT: Joy Oladokun: The Heavy Things Tour",
     "date": "2026-10-27",
     "url": "https://aladdin-theater.com/",
@@ -616,6 +567,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Madam Cooper's Country Cabaret",
+    "date": "2026-11-04",
+    "url": "https://www.showdownpdx.com/tm-event/madam-coopers-country-cabaret-68/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Jake Xerxes Fussell",
     "date": "2026-11-05",
@@ -924,6 +882,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "James Ivy",
+    "date": "2026-11-09",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 1)",
     "date": "2026-11-09",
@@ -1085,6 +1050,13 @@
     "time": ""
   },
   {
+    "venue": "Crystal Ballroom",
+    "title": "Houndmouth",
+    "date": "2026-11-13",
+    "url": "https://www.crystalballroompdx.com/events/277964-houndmouth/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 2)",
     "date": "2026-11-13",
@@ -1131,6 +1103,20 @@
     "title": "Lunch & Soul with the Mel Brown Organ Trio",
     "date": "2026-11-14",
     "url": "https://www.albertastreetpub.com/music/2025/12/6/lunch-amp-soul-with-the-mel-brown-organ-trio",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Heathens Homecoming West 2026 - Patterson Hood in conversation with Willy Vlautin",
+    "date": "2026-11-14",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Heathens Homecoming West 2026 Night 3 Happy Hour (Free)",
+    "date": "2026-11-14",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1656,6 +1642,27 @@
     "title": "George Fludas Quartet with George Colligan",
     "date": "2026-12-10",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Pokey LaFarge",
+    "date": "2026-12-11",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Zach Connolly Quartet",
+    "date": "2026-12-11",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
+    "title": "Daft Disko: Portland",
+    "date": "2026-12-11",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/daft-disko-portland-200442",
     "time": ""
   }
 ]
