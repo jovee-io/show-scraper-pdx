@@ -1,69 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "SOLD OUT: Joy Oladokun: The Heavy Things Tour",
-    "date": "2026-10-27",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Bridgetown Trivia on the Heated Patio!",
-    "date": "2026-10-27",
-    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-4prg2-ksf9f-2jrzr-9sxzd-b8xet-kywd9-48lhc",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Local Roots Music NW Presents: Local Roots Live",
-    "date": "2026-10-27",
-    "url": "https://www.albertastreetpub.com/music/2026/10/27/local-roots-music-nw-presents-local-roots-live",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King",
-    "date": "2026-10-27",
-    "url": "https://www.crystalballroompdx.com/events/276838-butttootking-lydia-b-kollins-suzie-toot-and-kori-king/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "The Tubs",
-    "date": "2026-10-27",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Weatherday: Hornet Disaster Tour 2026",
-    "date": "2026-10-27",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Francis of Delirium",
-    "date": "2026-10-27",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
-    "date": "2026-10-27",
-    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-the-tom-armstrong-band-and-dance-lessons-with-peggy-and-peter/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "bunii \u2013 BUNIIVERSITY TOUR",
-    "date": "2026-10-27",
-    "url": "https://wonderballroom.com/event/bunii-buniiversity-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "SOLD OUT: REEL ROCK 20",
     "date": "2026-10-28",
     "url": "https://aladdin-theater.com/",
@@ -134,7 +71,7 @@
   },
   {
     "venue": "The Showdown",
-    "title": "Whiskey Wednesday with Brookyln Del and the Revelators and Temple Grandin",
+    "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
     "date": "2026-10-28",
     "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-brookyln-del-and-the-revelators/",
     "time": ""
@@ -630,6 +567,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "The Suitcase Junket with Rattlesnake Mama",
+    "date": "2026-11-05",
+    "url": "https://www.showdownpdx.com/tm-event/the-suitcase-junket/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Celebrating 50 Years of Buzzcocks",
     "date": "2026-11-05",
@@ -924,6 +868,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "SOLD OUT: Armand Hammer",
+    "date": "2026-11-10",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Craig Finn & The Band of Forgiveness",
+    "date": "2026-11-10",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 2)",
     "date": "2026-11-10",
@@ -1103,6 +1061,20 @@
     "title": "Lunch & Soul with the Mel Brown Organ Trio",
     "date": "2026-11-14",
     "url": "https://www.albertastreetpub.com/music/2025/12/6/lunch-amp-soul-with-the-mel-brown-organ-trio",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Russian Circles",
+    "date": "2026-11-14",
+    "url": "https://www.crystalballroompdx.com/events/277467-russian-circles/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 3)",
+    "date": "2026-11-14",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1663,6 +1635,13 @@
     "title": "Daft Disko: Portland",
     "date": "2026-12-11",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/daft-disko-portland-200442",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Trio Subtonic Album Release Show",
+    "date": "2026-12-12",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   }
 ]
