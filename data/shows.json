@@ -1,83 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "SOLD OUT: REEL ROCK 20",
-    "date": "2026-10-28",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
-    "date": "2026-10-28",
-    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-tbbpe",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Everclear \u2013 Lucky 7 Tour",
-    "date": "2026-10-28",
-    "url": "https://www.crystalballroompdx.com/events/276827-everclear-lucky-7-tour/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: Wednesday Night Special: Kyle Kinane (Early)",
-    "date": "2026-10-28",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: Wednesday Night Special: Kyle Kinane (Late)",
-    "date": "2026-10-28",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: Margo Cilker",
-    "date": "2026-10-28",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Team Dresch (Record Release Show)",
-    "date": "2026-10-28",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Akila Fields Trio w/ Special Guest Noah Bernstein",
-    "date": "2026-10-28",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Son Rompe Pera",
-    "date": "2026-10-28",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/son-rompe-pera-202840",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
-    "date": "2026-10-28",
-    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-16/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
-    "date": "2026-10-28",
-    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-brookyln-del-and-the-revelators/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Protomartyr",
     "date": "2026-10-29",
     "url": "https://aladdin-theater.com/",
@@ -665,6 +588,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Cover the People: An Evening of Beck and Ween Covers",
+    "date": "2026-11-06",
+    "url": "https://www.showdownpdx.com/tm-event/cover-the-people-an-evening-of-beck-and-ween-covers/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "INOHA",
     "date": "2026-11-06",
@@ -749,6 +679,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Gram Jam VI: A Tribute to Gram Parsons to Benefit the Jeremy Wilson Foundation",
+    "date": "2026-11-07",
+    "url": "https://www.showdownpdx.com/tm-event/gram-jam-vi-a-tribute-to-gram-parsons-to-benefit-the-jeremy-wilson-foundation/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "JOSEPH \u2013 10 Year Anniversary of \u201cI\u2019m Alone, No You\u2019re Not\u201d",
     "date": "2026-11-07",
@@ -760,6 +697,13 @@
     "title": "Warren Miller's \"Days Off\"",
     "date": "2026-11-08",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "SOULFUL SUNDAYS feat. Alea Loren & Co",
+    "date": "2026-11-08",
+    "url": "https://www.albertastreetpub.com/music/2023/3/5/soulful-sundays-p3a5l-3wl64-twxnj-wkacn-lc8tr-gphsj-x73af-5meh3-6cspz-9z8kp-wtz8c-47fe8-ekh63-lxhbe-7z8f3",
     "time": ""
   },
   {
@@ -917,6 +861,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Other Lives",
+    "date": "2026-11-11",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Vansire",
+    "date": "2026-11-11",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Tank and the Bangas",
     "date": "2026-11-11",
@@ -956,6 +914,13 @@
     "title": "Allison Russell",
     "date": "2026-11-12",
     "url": "https://www.crystalballroompdx.com/events/278314-allison-russell/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Goodnight, Texas",
+    "date": "2026-11-12",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1120,6 +1085,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Ron Funches",
+    "date": "2026-11-15",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Bridgetown Sextet",
     "date": "2026-11-15",
@@ -1159,6 +1131,13 @@
     "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
     "date": "2026-11-16",
     "url": "https://www.albertastreetpub.com/music/2026/10/5/comedy-amp-monday-night-football-with-hazel-dell-hottie",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Turnover",
+    "date": "2026-11-16",
+    "url": "https://www.crystalballroompdx.com/events/277458-turnover/",
     "time": ""
   },
   {
@@ -1641,6 +1620,13 @@
     "venue": "The 1905",
     "title": "Trio Subtonic Album Release Show",
     "date": "2026-12-12",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Wyatt Button Trio",
+    "date": "2026-12-13",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
