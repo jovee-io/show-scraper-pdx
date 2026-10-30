@@ -1,69 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Protomartyr",
-    "date": "2026-10-29",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "C'Mon THERSday - With DJ ASpen",
-    "date": "2026-10-29",
-    "url": "https://www.albertastreetpub.com/music/2026/10/29/cmon-thhersday-with-dj-aspen",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Nate Varrone \"Interesting Perspectives\" Tour",
-    "date": "2026-10-29",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: Olive Klug",
-    "date": "2026-10-29",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "RESCHEDULED TO 3/29/27: Death From Above 1979 - Private Lives Tour",
-    "date": "2026-10-29",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Cory Limuaco Tribute to Herbie Hancock",
-    "date": "2026-10-29",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "BALTHVS [SOLD OUT]",
-    "date": "2026-10-29",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/balthvs-sold-out--193885",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Halloween Barn Dance with Silk & Steel",
-    "date": "2026-10-29",
-    "url": "https://www.showdownpdx.com/tm-event/halloween-barn-dance-with-silk-steel/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Rebecca Black: Exhibitionism on Tour",
-    "date": "2026-10-29",
-    "url": "https://wonderballroom.com/event/rebecca-black-exhibitionism-on-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
     "date": "2026-10-30",
     "url": "https://aladdin-theater.com/",
@@ -742,6 +679,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Tyler Hilton",
+    "date": "2026-11-08",
+    "url": "https://www.showdownpdx.com/tm-event/tyler-hilton/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "DAX \u2013 The Anger Management Tour",
     "date": "2026-11-08",
@@ -924,6 +868,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Alex Cameron",
+    "date": "2026-11-12",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 1)",
     "date": "2026-11-12",
@@ -977,6 +928,13 @@
     "title": "Houndmouth",
     "date": "2026-11-13",
     "url": "https://www.crystalballroompdx.com/events/277964-houndmouth/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Karina Rykman - Late Checkout Tour 2026",
+    "date": "2026-11-13",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1087,6 +1045,13 @@
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Ron Funches",
+    "date": "2026-11-15",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Holy Wave",
     "date": "2026-11-15",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -1310,6 +1275,13 @@
   },
   {
     "venue": "The Get Down PDX",
+    "title": "Shafty: Portland&#39;s Tribute to Phish (2 Nights - 11/24 &amp; 11/25)",
+    "date": "2026-11-24",
+    "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
+    "time": ""
+  },
+  {
+    "venue": "The Get Down PDX",
     "title": "Shafty: Portland&#39;s Tribute to Phish (Night 1 - 11/24)",
     "date": "2026-11-24",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
@@ -1327,13 +1299,6 @@
     "title": "Greaterkind",
     "date": "2026-11-25",
     "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Shafty: Portland&#39;s Tribute to Phish (Night 2 - 11/25)",
-    "date": "2026-11-25",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
     "time": ""
   },
   {
