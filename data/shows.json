@@ -1,90 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
-    "date": "2026-10-30",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Strange & The Familiars // The Black Mariah Theater // The Peculiar Pretzelmen",
-    "date": "2026-10-30",
-    "url": "https://www.albertastreetpub.com/music/2026/10/30/strange-amp-the-familiars-the-black-mariah-theater-the-peculiar-pretzelmen",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Tragic Circus Presented by Monte and Marin & Rare Company. Featuring Haha the Clown",
-    "date": "2026-10-30",
-    "url": "https://www.albertastreetpub.com/music/2026/10/30/tragic-circus-presented-by-monte-and-marin-amp-rare-company-featuring-hana-the-clown",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Floater",
-    "date": "2026-10-30",
-    "url": "https://www.crystalballroompdx.com/events/277822-floater/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Gilla Band",
-    "date": "2026-10-30",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "The Wldlfe",
-    "date": "2026-10-30",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Glitterfox - The New Frontier",
-    "date": "2026-10-30",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "DICE",
-    "date": "2026-10-30",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Luther S. Allison Trio",
-    "date": "2026-10-30",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Steely Dead - A Sonic Fusion of the Grateful Dead and Steely Dan",
-    "date": "2026-10-30",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/steely-dead-a-sonic-fusion-of-the-grateful-dead-and-steely-dan-197334",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Jackstraw with Mark Tegio",
-    "date": "2026-10-30",
-    "url": "https://www.showdownpdx.com/tm-event/jackstraw-and-the-last-wild-buffalo-and-mark-tegio/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "SHAWN JAMES \u201cFLEW TOO CLOSE TO THE SUN TOUR\u201d",
-    "date": "2026-10-30",
-    "url": "https://wonderballroom.com/event/shawn-james-flew-too-close-to-the-sun-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "The Brothers Comatose",
     "date": "2026-10-31",
     "url": "https://aladdin-theater.com/",
@@ -728,6 +644,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Square Dancing with Caller Steph Noll / KARAOKE @ 9:30",
+    "date": "2026-11-09",
+    "url": "https://www.showdownpdx.com/tm-event/square-dancing-13/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Foy Vance World Tour | 2026 & 2027",
     "date": "2026-11-10",
@@ -834,7 +757,7 @@
   },
   {
     "venue": "The 1905",
-    "title": "Wil Blades",
+    "title": "Wil Blades fea. Andy Coe and Cory Limuaco",
     "date": "2026-11-11",
     "url": "https://www.the1905jazz.club/",
     "time": ""
@@ -900,6 +823,13 @@
     "title": "Elias Alexander",
     "date": "2026-11-12",
     "url": "https://www.tixr.com/groups/thegetdownpdx/events/elias-alexander-208317",
+    "time": ""
+  },
+  {
+    "venue": "Wonder Ballroom",
+    "title": "Allison Russell",
+    "date": "2026-11-12",
+    "url": "https://wonderballroom.com/event/allison-russell-2/wonder-ballroom/portland-oregon/",
     "time": ""
   },
   {
@@ -994,6 +924,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Margaret Glaspy - The I Am Both Tour",
+    "date": "2026-11-14",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 3)",
     "date": "2026-11-14",
@@ -1040,6 +977,20 @@
     "title": "Joanne Shaw Taylor",
     "date": "2026-11-15",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Hit the Lights",
+    "date": "2026-11-15",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Ron Funches (Late Show)",
+    "date": "2026-11-15",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1106,6 +1057,13 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "PDX Songwriters Open Mic (FREE)",
+    "date": "2026-11-16",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "The Portland GrandSLAM",
     "date": "2026-11-17",
@@ -1117,6 +1075,13 @@
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-11-17",
     "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-xm5zz",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Rodrigo y Gabriela",
+    "date": "2026-11-17",
+    "url": "https://www.crystalballroompdx.com/events/277359-rodrigo-y-gabriela/",
     "time": ""
   },
   {
@@ -1593,6 +1558,13 @@
     "title": "Wyatt Button Trio",
     "date": "2026-12-13",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "JD McPherson - SOCKS: A Rock N\u2019 Roll Christmas Tour",
+    "date": "2026-12-15",
+    "url": "https://aladdin-theater.com/",
     "time": ""
   }
 ]
