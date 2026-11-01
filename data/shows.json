@@ -1,76 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "The Brothers Comatose",
-    "date": "2026-10-31",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Neil-O-Ween with Lazy Horse // Jimmy Smith // Trisha Gene Brady",
-    "date": "2026-10-31",
-    "url": "https://www.albertastreetpub.com/music/2026/10/31/lazy-horse-jimmy-smith-trisha-gene-brady",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Orofino Live with Answers from Melvin",
-    "date": "2026-10-31",
-    "url": "https://www.albertastreetpub.com/music/2026/10/31/orofino-halloween-party",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "The 26th Annual Portland Erotic Ball",
-    "date": "2026-10-31",
-    "url": "https://www.crystalballroompdx.com/events/276976-the-26th-annual-portland-erotic-ball/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Katie Pruitt - Fools For The Fleeting Tour",
-    "date": "2026-10-31",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Nick Rolfe and Co Halloween Party",
-    "date": "2026-10-31",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "Beyond 30 - Over 30&#39;s Daytime Clubbing",
-    "date": "2026-10-31",
-    "url": "https://www.fatsoma.com/e/44sq5plq/80s-90s-over-30s-daytime-clubbing-portland?utm_campaign=prom_ss&amp;utm_medium=social&amp;utm_source=dynamic",
-    "time": ""
-  },
-  {
-    "venue": "The Get Down PDX",
-    "title": "The Funk Hunters",
-    "date": "2026-10-31",
-    "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-funk-hunters-201501",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "HALLOW'S EVE PURO PARI! w/DRECKIG, Karma Rivera, and  DJ's Omie and Velvet Ginger",
-    "date": "2026-10-31",
-    "url": "https://www.showdownpdx.com/tm-event/hallows-eve-puro-pari-w-dreckig-djs-velvet-ginger-omie-disco-diablo/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Halloween Bash Dance Party",
-    "date": "2026-10-31",
-    "url": "https://wonderballroom.com/event/halloween-bash-dance-party/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Buena Vista Orchestra",
     "date": "2026-11-01",
     "url": "https://aladdin-theater.com/",
@@ -707,6 +637,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy",
+    "date": "2026-11-10",
+    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-shorty-and-the-mustangs-and-dance-lessons-with-peggy/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Squirrel Flower",
     "date": "2026-11-11",
@@ -987,6 +924,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Stephen Day - The Self Titled Tour",
+    "date": "2026-11-15",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Ron Funches (Late Show)",
     "date": "2026-11-15",
@@ -1085,6 +1029,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Jervis Campbell",
+    "date": "2026-11-17",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The Get Down PDX",
     "title": "DAMAG3",
     "date": "2026-11-17",
@@ -1110,6 +1061,13 @@
     "title": "Wednesday Night Social - Cigars, Dominos & Music",
     "date": "2026-11-18",
     "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Silverstein",
+    "date": "2026-11-18",
+    "url": "https://www.crystalballroompdx.com/events/278093-silverstein/",
     "time": ""
   },
   {
@@ -1565,6 +1523,13 @@
     "title": "JD McPherson - SOCKS: A Rock N\u2019 Roll Christmas Tour",
     "date": "2026-12-15",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Farnell Newton's The Soul of Jazz",
+    "date": "2026-12-16",
+    "url": "https://www.the1905jazz.club/",
     "time": ""
   }
 ]
