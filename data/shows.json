@@ -1,65 +1,16 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Buena Vista Orchestra",
-    "date": "2026-11-01",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "SOULFUL SUNDAYS  featuring Rose Tinted",
-    "date": "2026-11-01",
-    "url": "https://www.albertastreetpub.com/music/2023/3/5/soulful-sundays-p3a5l-3wl64-twxnj-wkacn-lc8tr-gphsj-x73af-5meh3-6cspz-9z8kp-wtz8c-47fe8-ekh63-lxhbe-7z8f3-nejhj",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "THE HOT LOVIN' JAZZ BABIES",
-    "date": "2026-11-01",
-    "url": "https://www.albertastreetpub.com/music/2024/1/19/the-hot-lovin-jazz-babies-4dfwg-92l78-fsxn9-jhxn5-zgypl-7c8p9-9j8h7",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: Lime Garden",
-    "date": "2026-11-01",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Plini - An Unnameable Desire North American Tour",
-    "date": "2026-11-01",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Behind The Scene with The Christopher Brown Quartet",
-    "date": "2026-11-01",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "The Rivkah Ross Quintet",
-    "date": "2026-11-01",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Casual Eddie",
-    "date": "2026-11-01",
-    "url": "https://www.showdownpdx.com/tm-event/casual-eddie-4/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "King Buffalo",
     "date": "2026-11-02",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Back Up Organ Trio",
+    "date": "2026-11-02",
+    "url": "https://www.albertastreetpub.com/music/2026/11/2/back-up-organ-trio",
     "time": ""
   },
   {
@@ -421,7 +372,7 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "SOLD OUT: Pedro the Lion (Night 1)",
+    "title": "Pedro the Lion (Night 1)",
     "date": "2026-11-07",
     "url": "https://polarishall.com/",
     "time": ""
@@ -707,6 +658,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+    "date": "2026-11-11",
+    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-17/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Lucy Bedroque",
     "date": "2026-11-11",
@@ -865,6 +823,13 @@
     "title": "Margaret Glaspy - The I Am Both Tour",
     "date": "2026-11-14",
     "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "80s+90s New Wave/Alt Video Dance Attack",
+    "date": "2026-11-14",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -1068,6 +1033,13 @@
     "title": "Silverstein",
     "date": "2026-11-18",
     "url": "https://www.crystalballroompdx.com/events/278093-silverstein/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Mountainfilm on Tour",
+    "date": "2026-11-18",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1529,6 +1501,13 @@
     "venue": "The 1905",
     "title": "Farnell Newton's The Soul of Jazz",
     "date": "2026-12-16",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Kerry Politzer and Bossa PDX",
+    "date": "2026-12-17",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
