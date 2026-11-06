@@ -1,69 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Jake Xerxes Fussell",
-    "date": "2026-11-05",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "The Thesis - Starring 4our & Rachel Wong Co-Starring: Armand Scott // Petey // Kemi Badu with music by DJ Verbz",
-    "date": "2026-11-05",
-    "url": "https://www.albertastreetpub.com/music/2026/11/5/the-thesis-starring-4our-amp-rachel-wong-co-starring-armand-scott-petey-kemi-badu-with-music-by-dj-verbz",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "First Thursday Crafts & Cocktails",
-    "date": "2026-11-05",
-    "url": "https://www.crystalballroompdx.com/events/278622-first-thursday-crafts-cocktails/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "LUCY (Cooper B. Handy)",
-    "date": "2026-11-05",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: Jeffrey Martin",
-    "date": "2026-11-05",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Brandi Carlile: Burn The Setlist (The All Request Tour)",
-    "date": "2026-11-05",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "The Ben Wolfe Trio with Nicole Glover and Ron Steen",
-    "date": "2026-11-05",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "The Suitcase Junket with Rattlesnake Mama",
-    "date": "2026-11-05",
-    "url": "https://www.showdownpdx.com/tm-event/the-suitcase-junket/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Celebrating 50 Years of Buzzcocks",
-    "date": "2026-11-05",
-    "url": "https://wonderballroom.com/event/celebrating-50-years-of-buzzcocks/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Kathy Griffin: New face, New tour",
     "date": "2026-11-06",
     "url": "https://aladdin-theater.com/",
@@ -693,6 +630,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Chris Acker with Lucas Benoit",
+    "date": "2026-11-14",
+    "url": "https://www.showdownpdx.com/tm-event/chris-acker/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Earlybirds Club",
     "date": "2026-11-14",
@@ -711,6 +655,13 @@
     "title": "Cosmic Gnarly",
     "date": "2026-11-15",
     "url": "https://www.albertastreetpub.com/music/2026/11/15/cosmic-gnarly",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Soulful Sundays featuring Charlie Brown III - Tribute to Herbie Hancock",
+    "date": "2026-11-15",
+    "url": "https://www.albertastreetpub.com/music/2026/11/15/-charlie-brown-iii-tribute-to-herbie-hancock",
     "time": ""
   },
   {
@@ -932,7 +883,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "Todd Rundgren: DAMNED IF I DO TOUR",
+    "title": "SOLD OUT: Todd Rundgren: DAMNED IF I DO TOUR",
     "date": "2026-11-19",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -949,6 +900,20 @@
     "title": "Thundercat",
     "date": "2026-11-19",
     "url": "https://www.crystalballroompdx.com/events/277813-thundercat/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "The Cactus Blossoms",
+    "date": "2026-11-19",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Mattress 20 - 20 Years Of Mattress",
+    "date": "2026-11-19",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -977,6 +942,27 @@
     "title": "Grief Sucks: A One Man Show By KevOnStage",
     "date": "2026-11-20",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Lordymama",
+    "date": "2026-11-20",
+    "url": "https://www.albertastreetpub.com/music/2026/11/20/lordymama",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Mandela & Friends",
+    "date": "2026-11-20",
+    "url": "https://www.albertastreetpub.com/music/2026/11/20/mandela-amp-friends",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Haley Johnsen",
+    "date": "2026-11-20",
+    "url": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
     "time": ""
   },
   {
@@ -1040,6 +1026,13 @@
     "title": "SOLD OUT: Haley Heynderickx",
     "date": "2026-11-22",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "ERIC SKYE TRIO Plays Miles Davis featuring Tye North and Michah Kassell",
+    "date": "2026-11-22",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1389,6 +1382,13 @@
     "venue": "The 1905",
     "title": "Mel Brown B3 Organ Group",
     "date": "2026-12-20",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "Tony Glausi Quartet",
+    "date": "2026-12-21",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
