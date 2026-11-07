@@ -1,97 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Kathy Griffin: New face, New tour",
-    "date": "2026-11-06",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Kalida with Opener Paper Plane",
-    "date": "2026-11-06",
-    "url": "https://www.albertastreetpub.com/music/2026/11/6/kalida-with-opener-paper-plane",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Novamajiq Presents: The Second Breath Show - Sounds by Makaveli",
-    "date": "2026-11-06",
-    "url": "https://www.albertastreetpub.com/music/2026/11/6/novamajiq-presents-the-second-breath-show-sounds-by-makaveli",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "First Thursday Crafts & Cocktails",
-    "date": "2026-11-06",
-    "url": "https://www.crystalballroompdx.com/events/278640-first-thursday-crafts-cocktails/",
-    "time": ""
-  },
-  {
-    "venue": "Literary Arts",
-    "title": "Jimmie Herrod, Black Belt Eagle Scout & Nick Jaina Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
-    "date": "2026-11-06",
-    "url": "https://www.etix.com/ticket/p/72899526/jimmie-herrodblack-belt-eagle-scout-nick-jaina-accompanied-by-45th-parallel-string-quartetsight-reading-musical-dialects-portland-first-congregational-united-church-of-christ",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: mary in the junkyard",
-    "date": "2026-11-06",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Murray Hill - Showbiz! The Tour",
-    "date": "2026-11-06",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Jimmie Herrod, Black Belt Eagle Scout & Nick Jaina Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
-    "date": "2026-11-06",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Railroad Earth",
-    "date": "2026-11-06",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Marci",
-    "date": "2026-11-06",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Dmitri Matheny Group",
-    "date": "2026-11-06",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Cover the People: An Evening of Beck and Ween Covers",
-    "date": "2026-11-06",
-    "url": "https://www.showdownpdx.com/tm-event/cover-the-people-an-evening-of-beck-and-ween-covers/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "INOHA",
-    "date": "2026-11-06",
-    "url": "https://wonderballroom.com/event/inoha/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Marc Broussard",
     "date": "2026-11-07",
     "url": "https://aladdin-theater.com/",
@@ -707,6 +616,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Jeffrey Foucault with Taylor Kingman",
+    "date": "2026-11-15",
+    "url": "https://www.showdownpdx.com/tm-event/jeffrey-foucault-with-taylor-kingman/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "SUECO",
     "date": "2026-11-15",
@@ -966,6 +882,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Sallie Ford & the Sound Outside",
+    "date": "2026-11-20",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "The Teacher Show: Comedy from the Classroom (Night 1)",
+    "date": "2026-11-20",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Gary Numan North American Fall Tour 2026",
     "date": "2026-11-20",
@@ -1005,6 +935,20 @@
     "title": "Goth Video Dance Night",
     "date": "2026-11-21",
     "url": "https://www.albertastreetpub.com/music/2026/3/21/video-goth-night",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "90's Dance Flashback",
+    "date": "2026-11-21",
+    "url": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
+    "date": "2026-11-21",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -1057,6 +1001,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Scott Bradlee\u2019s Postmodern Jukebox \u2013 The Future Is Vintage World Tour",
+    "date": "2026-11-25",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Greaterkind",
     "date": "2026-11-25",
@@ -1085,6 +1036,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Neurosis",
+    "date": "2026-11-27",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAY",
     "date": "2026-11-27",
@@ -1096,6 +1054,13 @@
     "title": "The Storm Large Holiday Ordeal (Night 2)",
     "date": "2026-11-28",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Neurosis",
+    "date": "2026-11-28",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
