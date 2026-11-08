@@ -1,97 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Marc Broussard",
-    "date": "2026-11-07",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Ramblin Rose",
-    "date": "2026-11-07",
-    "url": "https://www.albertastreetpub.com/music/2025/1/31/ramblin-rose-wcxkb-m9ybz-e4ryw-cbrxx-8ntrx-l94xs",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Sienna Spiro: My House Tour",
-    "date": "2026-11-07",
-    "url": "https://www.crystalballroompdx.com/events/277282-sienna-spiro-my-house-tour/",
-    "time": ""
-  },
-  {
-    "venue": "Literary Arts",
-    "title": "Anna Tivel, Willy Vlautin & Wonderly Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
-    "date": "2026-11-07",
-    "url": "https://www.etix.com/ticket/p/70726588/anna-tivelwilly-vlautin-wonderly-accompanied-by-45th-parallel-string-quartetsight-reading-musical-dialects-portland-first-congregational-united-church-of-christ",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 1)",
-    "date": "2026-11-07",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Pedro the Lion (Night 1)",
-    "date": "2026-11-07",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Shamanic Sound Healing: a Portal Experience",
-    "date": "2026-11-07",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Anna Tivel, Willy Vlautin & Wonderly Accompanied by 45th Parallel String Quartet: Sight Reading - Musical Dialects",
-    "date": "2026-11-07",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Quadeca",
-    "date": "2026-11-07",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Late Show with Noah Mortola",
-    "date": "2026-11-07",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Nicole McCabe",
-    "date": "2026-11-07",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Gram Jam VI: A Tribute to Gram Parsons to Benefit the Jeremy Wilson Foundation",
-    "date": "2026-11-07",
-    "url": "https://www.showdownpdx.com/tm-event/gram-jam-vi-a-tribute-to-gram-parsons-to-benefit-the-jeremy-wilson-foundation/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "JOSEPH \u2013 10 Year Anniversary of \u201cI\u2019m Alone, No You\u2019re Not\u201d",
-    "date": "2026-11-07",
-    "url": "https://wonderballroom.com/event/joseph-10-year-anniversary-of-im-alone-no-youre-not/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Warren Miller's \"Days Off\"",
     "date": "2026-11-08",
     "url": "https://aladdin-theater.com/",
@@ -679,6 +588,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Square Dancing with Caller Andy Grummon and Probably Polly String Band / KARAOKE @ 9:30",
+    "date": "2026-11-16",
+    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-caller-andy-grummon-and-probably-polly-string-band/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "The Portland GrandSLAM",
     "date": "2026-11-17",
@@ -945,6 +861,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Bobby Short Shorts: An Evening of Grateful Dead Music",
+    "date": "2026-11-21",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Polaris Hall",
     "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
     "date": "2026-11-21",
@@ -973,6 +896,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Jack Bensinger",
+    "date": "2026-11-22",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
+    "date": "2026-11-22",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "ERIC SKYE TRIO Plays Miles Davis featuring Tye North and Michah Kassell",
     "date": "2026-11-22",
@@ -991,6 +928,20 @@
     "title": "Haley Heynderickx",
     "date": "2026-11-23",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Senses Fail",
+    "date": "2026-11-23",
+    "url": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Local Love Letter #30: Victory Over The Sun",
+    "date": "2026-11-23",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1106,6 +1057,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Pink Martini",
+    "date": "2026-11-29",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Mel Brown B3 Organ Group",
     "date": "2026-11-29",
@@ -1117,6 +1075,13 @@
     "title": "Jalen Ngonda: Doctrine of Love Tour",
     "date": "2026-11-29",
     "url": "https://wonderballroom.com/event/jalen-ngonda-doctrine-of-love-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Pink Martini",
+    "date": "2026-11-30",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1354,6 +1319,13 @@
     "venue": "The 1905",
     "title": "Tony Glausi Quartet",
     "date": "2026-12-21",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-23",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
