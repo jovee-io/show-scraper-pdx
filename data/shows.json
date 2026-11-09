@@ -1,76 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Warren Miller's \"Days Off\"",
-    "date": "2026-11-08",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "SOULFUL SUNDAYS feat. Alea Loren & Co",
-    "date": "2026-11-08",
-    "url": "https://www.albertastreetpub.com/music/2023/3/5/soulful-sundays-p3a5l-3wl64-twxnj-wkacn-lc8tr-gphsj-x73af-5meh3-6cspz-9z8kp-wtz8c-47fe8-ekh63-lxhbe-7z8f3",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Smut City Jellyroll Society",
-    "date": "2026-11-08",
-    "url": "https://www.albertastreetpub.com/music/2026/11/8/smut-city-jellyroll-society",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 2)",
-    "date": "2026-11-08",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Pedro the Lion (Night 2)",
-    "date": "2026-11-08",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "The Tallest Man on Earth",
-    "date": "2026-11-08",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Sparta",
-    "date": "2026-11-08",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Dave Tull",
-    "date": "2026-11-08",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Tyler Hilton",
-    "date": "2026-11-08",
-    "url": "https://www.showdownpdx.com/tm-event/tyler-hilton/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "DAX \u2013 The Anger Management Tour",
-    "date": "2026-11-08",
-    "url": "https://wonderballroom.com/event/dax-the-anger-management-tour/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Aterciopelados: La Pipa De La Paz 30 A\u00f1os Tour",
     "date": "2026-11-09",
     "url": "https://aladdin-theater.com/",
@@ -267,7 +197,7 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "Alex Cameron",
+    "title": "SOLD OUT: Alex Cameron",
     "date": "2026-11-12",
     "url": "https://polarishall.com/",
     "time": ""
@@ -554,7 +484,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
+    "title": "Comedy & Monday Night Football Hosted by  Hazel Dell Hottie",
     "date": "2026-11-16",
     "url": "https://www.albertastreetpub.com/music/2026/10/5/comedy-amp-monday-night-football-with-hazel-dell-hottie",
     "time": ""
@@ -596,7 +526,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "The Portland GrandSLAM",
+    "title": "SOLD OUT: The Portland GrandSLAM",
     "date": "2026-11-17",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -624,7 +554,7 @@
   },
   {
     "venue": "Mississippi Studios",
-    "title": "Bayonne - The \u2018Filters\u2019 Tour",
+    "title": "SOLD OUT: Bayonne - The \u2018Filters\u2019 Tour",
     "date": "2026-11-17",
     "url": "https://mississippistudios.com/",
     "time": ""
@@ -641,6 +571,13 @@
     "title": "Jervis Campbell",
     "date": "2026-11-17",
     "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
+    "date": "2026-11-17",
+    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-4/",
     "time": ""
   },
   {
@@ -896,6 +833,13 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Lukas Gienapp",
+    "date": "2026-11-22",
+    "url": "https://www.albertastreetpub.com/music/2026/11/8/lukas-gienapp",
+    "time": ""
+  },
+  {
     "venue": "Mississippi Studios",
     "title": "Jack Bensinger",
     "date": "2026-11-22",
@@ -931,6 +875,13 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Comedy & Monday Night Football Hosted by Hazel Dell Hottie",
+    "date": "2026-11-23",
+    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie-xz6bj",
+    "time": ""
+  },
+  {
     "venue": "Crystal Ballroom",
     "title": "Senses Fail",
     "date": "2026-11-23",
@@ -945,10 +896,45 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Babe Haven",
+    "date": "2026-11-23",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Bridgetown Trivia on the Heated Patio!",
+    "date": "2026-11-24",
+    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf-73ywh",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Rosebolt",
+    "date": "2026-11-24",
+    "url": "https://www.albertastreetpub.com/music/2026/11/24/rosebolt",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Portland School III",
+    "date": "2026-11-24",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "SOLD OUT: Emma Ruth Rundle - THESE KILLING TIMES",
     "date": "2026-11-25",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Wednesday Night Social - Cigars, Dominos & Music",
+    "date": "2026-11-25",
+    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k",
     "time": ""
   },
   {
@@ -987,6 +973,13 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "TITS UP",
+    "date": "2026-11-27",
+    "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-ks3km-lskyt",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Neurosis",
     "date": "2026-11-27",
@@ -1005,6 +998,13 @@
     "title": "The Storm Large Holiday Ordeal (Night 2)",
     "date": "2026-11-28",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Radio Giants",
+    "date": "2026-11-28",
+    "url": "https://www.albertastreetpub.com/music/2026/11/28/radio-giants",
     "time": ""
   },
   {
@@ -1099,6 +1099,20 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Wednesday Night Cigar Social - Featuring Tahirah Memory",
+    "date": "2026-12-02",
+    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k-c9mfs",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "The People's Jam (FREE)",
+    "date": "2026-12-02",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Christopher Brown Quartet",
     "date": "2026-12-02",
@@ -1113,6 +1127,20 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "The Thesis -",
+    "date": "2026-12-03",
+    "url": "https://www.albertastreetpub.com/music/2026/11/5/the-thesis-starring-4our-amp-rachel-wong-co-starring-armand-scott-petey-kemi-badu-with-music-by-dj-verbz-4w44h",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+    "date": "2026-12-03",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Aimee Nolte Quartet",
     "date": "2026-12-03",
@@ -1121,9 +1149,23 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "Cat Clyde & Dean Johnson",
+    "title": "SOLD OUT: Cat Clyde & Dean Johnson",
     "date": "2026-12-04",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Legendary Beyons",
+    "date": "2026-12-04",
+    "url": "https://www.albertastreetpub.com/music/2026/12/4/legendary-beyons",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "WiFi Baby | Dead Name Factory | Combobox",
+    "date": "2026-12-04",
+    "url": "https://www.albertastreetpub.com/music/2026/12/4/wifi-baby-dead-name-factory-combobox",
     "time": ""
   },
   {
@@ -1215,6 +1257,13 @@
     "title": "Arietta Ward Birthday Show",
     "date": "2026-12-09",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "John Badger | Cosacci | Franco",
+    "date": "2026-12-10",
+    "url": "https://www.albertastreetpub.com/music/2026/12/10/john-badger-cosacci-franco",
     "time": ""
   },
   {
@@ -1326,6 +1375,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-23",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-24",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
