@@ -1,48 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Aterciopelados: La Pipa De La Paz 30 A\u00f1os Tour",
-    "date": "2026-11-09",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football with Hazel Dell Hottie",
-    "date": "2026-11-09",
-    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Emily Scott Robinson",
-    "date": "2026-11-09",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "James Ivy",
-    "date": "2026-11-09",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 1)",
-    "date": "2026-11-09",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Square Dancing with Caller Steph Noll / KARAOKE @ 9:30",
-    "date": "2026-11-09",
-    "url": "https://www.showdownpdx.com/tm-event/square-dancing-13/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Foy Vance World Tour | 2026 & 2027",
     "date": "2026-11-10",
     "url": "https://aladdin-theater.com/",
@@ -526,7 +484,7 @@
   },
   {
     "venue": "Aladdin Theater",
-    "title": "SOLD OUT: The Portland GrandSLAM",
+    "title": "The Portland GrandSLAM",
     "date": "2026-11-17",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -644,6 +602,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
+    "date": "2026-11-18",
+    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-william-surly-the-barroom-gospel-and-keston-brouillette-the-pickled-hearts-6/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Eiv\u00f8r",
     "date": "2026-11-18",
@@ -680,7 +645,7 @@
   },
   {
     "venue": "Polaris Hall",
-    "title": "Mattress 20 - 20 Years Of Mattress",
+    "title": "MATTRESS - 20 YEARS OF MATTRESS",
     "date": "2026-11-19",
     "url": "https://polarishall.com/",
     "time": ""
@@ -917,6 +882,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Chorale For A Cause",
+    "date": "2026-11-24",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Polaris Hall",
     "title": "Portland School III",
     "date": "2026-11-24",
@@ -935,6 +907,13 @@
     "title": "Wednesday Night Social - Cigars, Dominos & Music",
     "date": "2026-11-25",
     "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "The Pynnacles + Jewelry Exchange",
+    "date": "2026-11-25",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1169,6 +1148,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Amber Autry: Happy Holler Tour (Early Show)",
+    "date": "2026-12-04",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Nick Rolfe & Co.",
     "date": "2026-12-04",
@@ -1382,6 +1368,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-24",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-25",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
