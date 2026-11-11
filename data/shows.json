@@ -1,62 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Foy Vance World Tour | 2026 & 2027",
-    "date": "2026-11-10",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Bridgetown Trivia on the Heated Patio!",
-    "date": "2026-11-10",
-    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Tezeta Band",
-    "date": "2026-11-10",
-    "url": "https://www.albertastreetpub.com/music/2026/11/10/tezeta-band",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "The Black Angels",
-    "date": "2026-11-10",
-    "url": "https://www.crystalballroompdx.com/events/276344-the-black-angels/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "SOLD OUT: Armand Hammer",
-    "date": "2026-11-10",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Craig Finn & The Band of Forgiveness",
-    "date": "2026-11-10",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "The Low Bar Chorale - Laura Gibson 20th Anniversary Singalong (Night 2)",
-    "date": "2026-11-10",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy",
-    "date": "2026-11-10",
-    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-shorty-and-the-mustangs-and-dance-lessons-with-peggy/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Squirrel Flower",
     "date": "2026-11-11",
     "url": "https://aladdin-theater.com/",
@@ -603,6 +547,13 @@
   },
   {
     "venue": "The Showdown",
+    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+    "date": "2026-11-18",
+    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-18/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
     "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
     "date": "2026-11-18",
     "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-william-surly-the-barroom-gospel-and-keston-brouillette-the-pickled-hearts-6/",
@@ -917,6 +868,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
+    "date": "2026-11-25",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Scott Bradlee\u2019s Postmodern Jukebox \u2013 The Future Is Vintage World Tour",
     "date": "2026-11-25",
@@ -956,6 +914,20 @@
     "title": "TITS UP",
     "date": "2026-11-27",
     "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-ks3km-lskyt",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Decadent 80s Dance Party",
+    "date": "2026-11-27",
+    "url": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Grand Royale \u2013 Beastie Boys Tribute",
+    "date": "2026-11-27",
+    "url": "https://mississippistudios.com/",
     "time": ""
   },
   {
@@ -1150,6 +1122,13 @@
   {
     "venue": "Revolution Hall",
     "title": "SOLD OUT: Amber Autry: Happy Holler Tour (Early Show)",
+    "date": "2026-12-04",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "SOLD OUT: Amber Autry: Happy Holler Tour (Late Show)",
     "date": "2026-12-04",
     "url": "https://revolutionhall.com/",
     "time": ""
@@ -1375,6 +1354,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-25",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-26",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
