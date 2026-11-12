@@ -1,82 +1,5 @@
 [
   {
-    "venue": "Aladdin Theater",
-    "title": "Squirrel Flower",
-    "date": "2026-11-11",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
-    "date": "2026-11-11",
-    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-tbbpe-gkh64",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Nekrogoblikon",
-    "date": "2026-11-11",
-    "url": "https://www.crystalballroompdx.com/events/277142-nekrogoblikon/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Other Lives",
-    "date": "2026-11-11",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Vansire",
-    "date": "2026-11-11",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Tank and the Bangas",
-    "date": "2026-11-11",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Lady Killers hosted by Ally J Ward & Devan Daily",
-    "date": "2026-11-11",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Wil Blades fea. Andy Coe and Cory Limuaco",
-    "date": "2026-11-11",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
-    "date": "2026-11-11",
-    "url": "https://www.showdownpdx.com/tm-event/intermediate-two-step-lessons-with-peggy-and-dillon-17/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with The Spare Parts",
-    "date": "2026-11-11",
-    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-special-guests-6/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Lucy Bedroque",
-    "date": "2026-11-11",
-    "url": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Alberta Street Pub",
     "title": "Crystal Beach | Emily and the Squeamish | Talks To Plants",
     "date": "2026-11-12",
@@ -616,6 +539,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Jim Lauderdale and Never Come Down",
+    "date": "2026-11-19",
+    "url": "https://www.showdownpdx.com/tm-event/jim-lauderdale-and-never-come-down/",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "Jamila Woods: 10 Years of HEAVN",
     "date": "2026-11-19",
@@ -676,6 +606,13 @@
     "title": "Farnell Newton's The Soul of Jazz",
     "date": "2026-11-20",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Tribute to Wilco, Neil Young, and Elliott Smith Featuring Wilclone, Mars FM, and Rose Parade",
+    "date": "2026-11-20",
+    "url": "https://www.showdownpdx.com/tm-event/tribute-to-wilco-neil-young-and-elliott-smith-featuring-wilclone-mars-fm-and-rose-parade/",
     "time": ""
   },
   {
@@ -959,6 +896,27 @@
     "time": ""
   },
   {
+    "venue": "Crystal Ballroom",
+    "title": "Inaugural Holiday Bazaar Brewfest",
+    "date": "2026-11-28",
+    "url": "https://www.crystalballroompdx.com/events/278692-inaugural-holiday-bazaar-brewfest/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Tony Furtado Band 15th Annual Post-Thanksgiving Bash",
+    "date": "2026-11-28",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Sap",
+    "date": "2026-11-28",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Neurosis",
     "date": "2026-11-28",
@@ -1162,6 +1120,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
+    "date": "2026-12-05",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "A Charlie Brown Christmas with Dan Davey and Friends",
     "date": "2026-12-05",
@@ -1180,6 +1145,13 @@
     "title": "Pete Yorn solo acoustic - 25th Anniversary of musicforthemorningafter",
     "date": "2026-12-06",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Choir! Choir! Choir!",
+    "date": "2026-12-06",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1361,6 +1333,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-26",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-27",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
