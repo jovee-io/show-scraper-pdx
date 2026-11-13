@@ -1,68 +1,5 @@
 [
   {
-    "venue": "Alberta Street Pub",
-    "title": "Crystal Beach | Emily and the Squeamish | Talks To Plants",
-    "date": "2026-11-12",
-    "url": "https://www.albertastreetpub.com/music/2026/11/12/crystal-beach-emily-and-the-squeamish-talks-to-plants",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Allison Russell",
-    "date": "2026-11-12",
-    "url": "https://www.crystalballroompdx.com/events/278314-allison-russell/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Goodnight, Texas",
-    "date": "2026-11-12",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "SOLD OUT: Alex Cameron",
-    "date": "2026-11-12",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 1)",
-    "date": "2026-11-12",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Heathens Homecoming West 2026 Night 1 After Party (Free)",
-    "date": "2026-11-12",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Galen Clark & Peter Knudsen Present: Trio of Boom",
-    "date": "2026-11-12",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Clay Street Unit with Brad Parsons",
-    "date": "2026-11-12",
-    "url": "https://www.showdownpdx.com/tm-event/clay-street-unit/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Allison Russell",
-    "date": "2026-11-12",
-    "url": "https://wonderballroom.com/event/allison-russell-2/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
     "venue": "Aladdin Theater",
     "title": "Johnny Franco & His Real Brother Dom",
     "date": "2026-11-13",
@@ -421,7 +358,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
+    "title": "Wednesday Night Social Featuring Tahirah  |  Cigars, Dominos & Music",
     "date": "2026-11-18",
     "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r",
     "time": ""
@@ -582,6 +519,13 @@
   },
   {
     "venue": "Mississippi Studios",
+    "title": "RESCHEDULED TO 3/17/27 AT POLARIS HALL: Luke Kidgell",
+    "date": "2026-11-20",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
     "title": "Sallie Ford & the Sound Outside",
     "date": "2026-11-20",
     "url": "https://mississippistudios.com/",
@@ -631,6 +575,13 @@
   },
   {
     "venue": "Alberta Street Pub",
+    "title": "Chasing Cowboys",
+    "date": "2026-11-21",
+    "url": "https://www.albertastreetpub.com/music/2026/11/21/chasing-cowboys",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
     "title": "Drag Brunch Hosted by Nicoleonoscopi!",
     "date": "2026-11-21",
     "url": "https://www.albertastreetpub.com/music/2026/5/2/drag-brunch-hosted-by-nicoleonoscopi",
@@ -676,6 +627,13 @@
     "title": "Kareem Kandi with Ali Jackson",
     "date": "2026-11-21",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The Showdown",
+    "title": "Todd Day Wait with Mac Cornish",
+    "date": "2026-11-21",
+    "url": "https://www.showdownpdx.com/tm-event/todd-day-wait-2/",
     "time": ""
   },
   {
@@ -960,7 +918,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "Soda Jinx // Jay and Hex // Gregory James Mckillop",
+    "title": "Soda Jinx // Jay & Hex // Fly! Tanager",
     "date": "2026-11-29",
     "url": "https://www.albertastreetpub.com/music/2026/11/29/soda-jinx-jay-and-hex-gregory-james-mckillop",
     "time": ""
@@ -987,6 +945,20 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Comedy & Monday Night Football Hosted by Hazel Dell Hottie",
+    "date": "2026-11-30",
+    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie-xz6bj-8jk49",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "THE KILANS - COULD YOU KEEP IT DARK? TOUR",
+    "date": "2026-11-30",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Pink Martini",
     "date": "2026-11-30",
@@ -1005,6 +977,13 @@
     "title": "Boomerang Sky | Onion | Rei Deora",
     "date": "2026-12-01",
     "url": "https://www.albertastreetpub.com/music/2026/12/1/boomerang-sky-onion-rei-deora",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Bridgetown Trivia on the Heated Patio!",
+    "date": "2026-12-01",
+    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf-73ywh-cx3r9",
     "time": ""
   },
   {
@@ -1040,6 +1019,13 @@
     "title": "The Thesis -",
     "date": "2026-12-03",
     "url": "https://www.albertastreetpub.com/music/2026/11/5/the-thesis-starring-4our-amp-rachel-wong-co-starring-armand-scott-petey-kemi-badu-with-music-by-dj-verbz-4w44h",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Dirty Heads",
+    "date": "2026-12-03",
+    "url": "https://www.crystalballroompdx.com/events/279125-dirty-heads/",
     "time": ""
   },
   {
@@ -1114,9 +1100,23 @@
   },
   {
     "venue": "Alberta Street Pub",
+    "title": "Dr. King Elementary Holiday Fundraiser",
+    "date": "2026-12-05",
+    "url": "https://www.albertastreetpub.com/music/2026/12/5/dr-king-elementary-holiday-fundraiser",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
     "title": "Lucky As Us | The Sirens | Nervous State",
     "date": "2026-12-05",
     "url": "https://www.albertastreetpub.com/music/2026/12/5/lucky-as-us-the-sirens-nervous-state",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "The Sirens",
+    "date": "2026-12-05",
+    "url": "https://www.albertastreetpub.com/music/2026/12/5/the-sirens",
     "time": ""
   },
   {
@@ -1183,10 +1183,24 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Strawberry Guy",
+    "date": "2026-12-08",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "The Bobby Lees",
     "date": "2026-12-09",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Show Bar",
+    "title": "Lady Killers hosted by Ally J Ward & Devan Daily",
+    "date": "2026-12-09",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1340,6 +1354,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-27",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-28",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
