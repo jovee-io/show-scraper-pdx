@@ -1,69 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Johnny Franco & His Real Brother Dom",
-    "date": "2026-11-13",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "TITS UP",
-    "date": "2026-11-13",
-    "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-ks3km",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "The Flip // Marshall Law Band",
-    "date": "2026-11-13",
-    "url": "https://www.albertastreetpub.com/music/2026/11/13/the-flip-marshall-law-band",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Houndmouth",
-    "date": "2026-11-13",
-    "url": "https://www.crystalballroompdx.com/events/277964-houndmouth/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Karina Rykman - Late Checkout Tour 2026",
-    "date": "2026-11-13",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 2)",
-    "date": "2026-11-13",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Heathens Homecoming West 2026 Pre-Party Showcase (Free)",
-    "date": "2026-11-13",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Keith Brown Quartet",
-    "date": "2026-11-13",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Silverada with Emily Nenni",
-    "date": "2026-11-13",
-    "url": "https://www.showdownpdx.com/tm-event/silverada-with-emily-nenni/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "SOLD OUT: Son Volt",
     "date": "2026-11-14",
     "url": "https://aladdin-theater.com/",
@@ -679,6 +616,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Casual Eddie",
+    "date": "2026-11-22",
+    "url": "https://www.showdownpdx.com/tm-event/casual-eddie-5/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "Haley Heynderickx",
     "date": "2026-11-23",
@@ -994,6 +938,13 @@
     "time": ""
   },
   {
+    "venue": "Polaris Hall",
+    "title": "Thoughts on Bowling",
+    "date": "2026-12-02",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Show Bar",
     "title": "The People's Jam (FREE)",
     "date": "2026-12-02",
@@ -1061,6 +1012,13 @@
     "title": "WiFi Baby | Dead Name Factory | Combobox",
     "date": "2026-12-04",
     "url": "https://www.albertastreetpub.com/music/2026/12/4/wifi-baby-dead-name-factory-combobox",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Yule Benefit Tour 2026",
+    "date": "2026-12-04",
+    "url": "https://www.crystalballroompdx.com/events/278582-yule-benefit-tour-2026/",
     "time": ""
   },
   {
@@ -1218,6 +1176,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Live Wire with Luke Burbank",
+    "date": "2026-12-10",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "George Fludas Trio with George Colligan and Robert Rodriguez",
     "date": "2026-12-10",
@@ -1229,6 +1194,13 @@
     "title": "Pokey LaFarge",
     "date": "2026-12-11",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "DESI BANKS: YOUR FAVORITE COUSIN",
+    "date": "2026-12-11",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1361,6 +1333,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-28",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-29",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
