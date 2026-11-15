@@ -1,97 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "SOLD OUT: Son Volt",
-    "date": "2026-11-14",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Birdwar: Record Release - The Frequence // Jaycob Van Auken",
-    "date": "2026-11-14",
-    "url": "https://www.albertastreetpub.com/music/2026/11/14/birdwar-record-release-the-frequence-jaycob-van-auken",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Lunch & Soul with the Mel Brown Organ Trio",
-    "date": "2026-11-14",
-    "url": "https://www.albertastreetpub.com/music/2025/12/6/lunch-amp-soul-with-the-mel-brown-organ-trio",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "These Foolish Things | The Get Tight!",
-    "date": "2026-11-14",
-    "url": "https://www.albertastreetpub.com/music/2026/11/14/these-foolish-things-the-get-tight",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Russian Circles",
-    "date": "2026-11-14",
-    "url": "https://www.crystalballroompdx.com/events/277467-russian-circles/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Margaret Glaspy - The I Am Both Tour",
-    "date": "2026-11-14",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "80s+90s New Wave/Alt Video Dance Attack",
-    "date": "2026-11-14",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 3)",
-    "date": "2026-11-14",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Heathens Homecoming West 2026 - Patterson Hood in conversation with Willy Vlautin",
-    "date": "2026-11-14",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Heathens Homecoming West 2026 Night 3 Happy Hour (Free)",
-    "date": "2026-11-14",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Christopher Brown and Friends Featuring Gina Saputo",
-    "date": "2026-11-14",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Chris Acker with Lucas Benoit",
-    "date": "2026-11-14",
-    "url": "https://www.showdownpdx.com/tm-event/chris-acker/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "Earlybirds Club",
-    "date": "2026-11-14",
-    "url": "https://wonderballroom.com/event/earlybirds-club-6/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Joanne Shaw Taylor",
     "date": "2026-11-15",
     "url": "https://aladdin-theater.com/",
@@ -582,7 +491,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "Lukas Gienapp",
+    "title": "Blue Schmoll",
     "date": "2026-11-22",
     "url": "https://www.albertastreetpub.com/music/2026/11/8/lukas-gienapp",
     "time": ""
@@ -658,6 +567,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Square Dancing with Caller Tighe Hauze and Miss Praline's Whip Lodge Tenderstrokes / KARAOKE @ 9:30",
+    "date": "2026-11-23",
+    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-caller-tighe-hauze-and-miss-pralines-whip-lodge-tenderstrokes/",
+    "time": ""
+  },
+  {
     "venue": "Alberta Street Pub",
     "title": "Bridgetown Trivia on the Heated Patio!",
     "date": "2026-11-24",
@@ -694,7 +610,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "Wednesday Night Social - Cigars, Dominos & Music",
+    "title": "PDX SMOKE Presents - Wednesday Night Social - Cigars, Dominos & Music",
     "date": "2026-11-25",
     "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k",
     "time": ""
@@ -792,6 +708,13 @@
   },
   {
     "venue": "Alberta Street Pub",
+    "title": "R.O.T.R. Presents Dreww Moon",
+    "date": "2026-11-28",
+    "url": "https://www.albertastreetpub.com/music/2026/11/28/rotr",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
     "title": "Radio Giants",
     "date": "2026-11-28",
     "url": "https://www.albertastreetpub.com/music/2026/11/28/radio-giants",
@@ -855,7 +778,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "SOULFUL SUNDAYS featuring Santiago & Friends",
+    "title": "SUNDAYS featuring Santiago & Friends",
     "date": "2026-11-29",
     "url": "https://www.albertastreetpub.com/music/2023/3/5/soulful-sundays-p3a5l-3wl64-twxnj-wkacn-lc8tr-gphsj-x73af-5meh3-6cspz-9z8kp-wtz8c-47fe8-ekh63-lxhbe-7z8f3-e3gab-abftn",
     "time": ""
@@ -980,6 +903,20 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Gauri B",
+    "date": "2026-12-03",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "Fat, Evil Children",
+    "date": "2026-12-03",
+    "url": "https://polarishall.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Dweezil Zappa DZ20: Like Father, Like Son",
     "date": "2026-12-03",
@@ -1009,7 +946,7 @@
   },
   {
     "venue": "Alberta Street Pub",
-    "title": "WiFi Baby | Dead Name Factory | Combobox",
+    "title": "WiFi Baby // Dead Name Factory // Combobox",
     "date": "2026-12-04",
     "url": "https://www.albertastreetpub.com/music/2026/12/4/wifi-baby-dead-name-factory-combobox",
     "time": ""
@@ -1071,13 +1008,6 @@
     "time": ""
   },
   {
-    "venue": "Alberta Street Pub",
-    "title": "The Sirens",
-    "date": "2026-12-05",
-    "url": "https://www.albertastreetpub.com/music/2026/12/5/the-sirens",
-    "time": ""
-  },
-  {
     "venue": "Revolution Hall",
     "title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
     "date": "2026-12-05",
@@ -1103,6 +1033,27 @@
     "title": "Pete Yorn solo acoustic - 25th Anniversary of musicforthemorningafter",
     "date": "2026-12-06",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Sundays Featuring - Rose Tinted",
+    "date": "2026-12-06",
+    "url": "https://www.albertastreetpub.com/music/2026/11/15/sundays-featuring-rose-tinted",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "THE HOT LOVIN' JAZZ BABIES",
+    "date": "2026-12-06",
+    "url": "https://www.albertastreetpub.com/music/2024/1/19/the-hot-lovin-jazz-babies-4dfwg-92l78-fsxn9-jhxn5-zgypl-7c8p9-3ep8n",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Buffalo Traffic Jam",
+    "date": "2026-12-06",
+    "url": "https://www.crystalballroompdx.com/events/279126-buffalo-traffic-jam/",
     "time": ""
   },
   {
@@ -1134,10 +1085,31 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Bradley Knudsen",
+    "date": "2026-12-07",
+    "url": "https://www.albertastreetpub.com/music/2026/12/7/bradley-knudsen",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Comedy & Monday Night Football Hosted by Hazel Dell Hottie",
+    "date": "2026-12-07",
+    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie-xz6bj-8jk49-fgdgh",
+    "time": ""
+  },
+  {
     "venue": "Wonder Ballroom",
     "title": "TINY HABITS \u2013 The Keepers Tour",
     "date": "2026-12-07",
     "url": "https://wonderballroom.com/event/tiny-habits-the-keepers-tour/wonder-ballroom/portland-oregon/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Bridgetown Trivia on the Heated Patio!",
+    "date": "2026-12-08",
+    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf-73ywh-cx3r9-ntcsl",
     "time": ""
   },
   {
@@ -1152,6 +1124,13 @@
     "title": "The Bobby Lees",
     "date": "2026-12-09",
     "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "PDX SMOKE Presents - Wednesday Night Social - Cigars, Dominos & Music",
+    "date": "2026-12-09",
+    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k-xc2zg",
     "time": ""
   },
   {
@@ -1197,6 +1176,20 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Jonny Cool // Mic Crenshaw",
+    "date": "2026-12-11",
+    "url": "https://www.albertastreetpub.com/music/2026/12/11/jonny-cool-mic-crenshaw",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "TITS UP",
+    "date": "2026-12-11",
+    "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-ks3km-lskyt-htysp",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "DESI BANKS: YOUR FAVORITE COUSIN",
     "date": "2026-12-11",
@@ -1211,10 +1204,45 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Lunch & Soul with the Mel Brown Organ Trio",
+    "date": "2026-12-12",
+    "url": "https://www.albertastreetpub.com/music/2025/12/6/lunch-amp-soul-with-the-mel-brown-organ-trio-e5d8g",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "The Holiday Jam - An Ugly Sweater Party",
+    "date": "2026-12-12",
+    "url": "https://www.albertastreetpub.com/music/2026/12/12/the-holiday-jam-an-ugly-sweater-party",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "The Pineapple Thief",
+    "date": "2026-12-12",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Trio Subtonic Album Release Show",
     "date": "2026-12-12",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Donna Jones - HOLLA-DAY SHOW",
+    "date": "2026-12-13",
+    "url": "https://www.albertastreetpub.com/music/2026/12/13/donna-jones-holla-day-show",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "SUNDAYS Featuring Madison Rose & Party After",
+    "date": "2026-12-13",
+    "url": "https://www.albertastreetpub.com/music/2026/12/13/sundays-featuring-madison-rose-amp-party-after",
     "time": ""
   },
   {
@@ -1225,6 +1253,20 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Bradley Tucson // Lexie",
+    "date": "2026-12-14",
+    "url": "https://www.albertastreetpub.com/music/2026/12/14/bradley-tucson-lexie",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Comedy & Monday Night Football Hosted by Hazel Dell Hottie",
+    "date": "2026-12-14",
+    "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie-xz6bj-8jk49-fgdgh-7ptcm",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "JD McPherson - SOCKS: A Rock N\u2019 Roll Christmas Tour",
     "date": "2026-12-15",
@@ -1232,10 +1274,45 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Bridgetown Trivia on the Heated Patio!",
+    "date": "2026-12-15",
+    "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf-73ywh-cx3r9-ntcsl-xhnmh",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Criminal\u00a0Presents: Don't Worry with Phoebe Judge",
+    "date": "2026-12-15",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "The 2nd Annual POH-Hop Connect 4 Championship",
+    "date": "2026-12-16",
+    "url": "https://www.albertastreetpub.com/music/2026/12/16/the-2nd-annual-poh-hop-connect-4-championship",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Wednesday Night Cigar Social - Featuring Tahirah Memory",
+    "date": "2026-12-16",
+    "url": "https://www.albertastreetpub.com/music/2023/10/18/wednesday-night-social-fkf88-mke97-4227c-l64xx-gss68-cjzan-8lsw3-nbgjn-yr6pm-6kblr-ff6b5-lsmb9-hkw2h-f5mft-hfbdc-nddag-sg2pm-ylbtn-7mp5t-b64gk-lwx2r-6dg2k-c9mfs-wkm42",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Farnell Newton's The Soul of Jazz",
     "date": "2026-12-16",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "YOB",
+    "date": "2026-12-17",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1260,6 +1337,13 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Kyle Linneman Holiday Show",
+    "date": "2026-12-18",
+    "url": "https://www.albertastreetpub.com/music/2026/11/18/kyle-linneman-holiday-show",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Austin Ford Quintet Featuring Noah Myers",
     "date": "2026-12-18",
@@ -1274,10 +1358,31 @@
     "time": ""
   },
   {
+    "venue": "Alberta Street Pub",
+    "title": "Drag Brunch Hosted by Nicoleonoscopi!",
+    "date": "2026-12-19",
+    "url": "https://www.albertastreetpub.com/music/2026/5/2/drag-brunch-hosted-by-nicoleonoscopi-t2lnw",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "Goth Video Dance Night",
+    "date": "2026-12-19",
+    "url": "https://www.albertastreetpub.com/music/2026/3/21/video-goth-night-ckrzs",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Charlie Brown III Holiday Show",
     "date": "2026-12-19",
     "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Alberta Street Pub",
+    "title": "THE OLD TIME DIAMONDS PRESENTS - The Love Wanga",
+    "date": "2026-12-20",
+    "url": "https://www.albertastreetpub.com/music/2026/12/20/the-love-wanga",
     "time": ""
   },
   {
@@ -1340,6 +1445,13 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-29",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED FOR THE HOLIDAYS",
+    "date": "2026-12-30",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
