@@ -1,83 +1,6 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Joanne Shaw Taylor",
-    "date": "2026-11-15",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Cosmic Gnarly",
-    "date": "2026-11-15",
-    "url": "https://www.albertastreetpub.com/music/2026/11/15/cosmic-gnarly",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Soulful Sundays featuring Charlie Brown III - Tribute to Herbie Hancock",
-    "date": "2026-11-15",
-    "url": "https://www.albertastreetpub.com/music/2026/11/15/-charlie-brown-iii-tribute-to-herbie-hancock",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "Hit the Lights",
-    "date": "2026-11-15",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Stephen Day - The Self Titled Tour",
-    "date": "2026-11-15",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "Ron Funches (Late Show)",
-    "date": "2026-11-15",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Revolution Hall",
-    "title": "SOLD OUT: Ron Funches",
-    "date": "2026-11-15",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "Holy Wave",
-    "date": "2026-11-15",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The 1905",
-    "title": "Bridgetown Sextet",
-    "date": "2026-11-15",
-    "url": "https://www.the1905jazz.club/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Jeffrey Foucault with Taylor Kingman",
-    "date": "2026-11-15",
-    "url": "https://www.showdownpdx.com/tm-event/jeffrey-foucault-with-taylor-kingman/",
-    "time": ""
-  },
-  {
-    "venue": "Wonder Ballroom",
-    "title": "SUECO",
-    "date": "2026-11-15",
-    "url": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
     "title": "Vocalocity: We\u2019re Halfway There",
     "date": "2026-11-16",
     "url": "https://aladdin-theater.com/",
@@ -218,7 +141,7 @@
   },
   {
     "venue": "Mississippi Studios",
-    "title": "Natural Child",
+    "title": "SOLD OUT: Natural Child",
     "date": "2026-11-18",
     "url": "https://mississippistudios.com/",
     "time": ""
@@ -602,6 +525,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Robbie",
+    "date": "2026-11-24",
+    "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-5/",
+    "time": ""
+  },
+  {
     "venue": "Aladdin Theater",
     "title": "SOLD OUT: Emma Ruth Rundle - THESE KILLING TIMES",
     "date": "2026-11-25",
@@ -956,6 +886,20 @@
     "title": "Yule Benefit Tour 2026",
     "date": "2026-12-04",
     "url": "https://www.crystalballroompdx.com/events/278582-yule-benefit-tour-2026/",
+    "time": ""
+  },
+  {
+    "venue": "Mississippi Studios",
+    "title": "Buck Meek",
+    "date": "2026-12-04",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
+    "venue": "Polaris Hall",
+    "title": "HARBOUR",
+    "date": "2026-12-04",
+    "url": "https://polarishall.com/",
     "time": ""
   },
   {
@@ -1344,6 +1288,13 @@
     "time": ""
   },
   {
+    "venue": "Revolution Hall",
+    "title": "Mohanad Elshieky: Green Books",
+    "date": "2026-12-18",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Austin Ford Quintet Featuring Noah Myers",
     "date": "2026-12-18",
@@ -1369,6 +1320,13 @@
     "title": "Goth Video Dance Night",
     "date": "2026-12-19",
     "url": "https://www.albertastreetpub.com/music/2026/3/21/video-goth-night-ckrzs",
+    "time": ""
+  },
+  {
+    "venue": "Revolution Hall",
+    "title": "Snow Bar Chorale",
+    "date": "2026-12-19",
+    "url": "https://revolutionhall.com/",
     "time": ""
   },
   {
@@ -1452,6 +1410,20 @@
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAYS",
     "date": "2026-12-30",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "Aladdin Theater",
+    "title": "Jenny Don't and the Spurs Cowboy Prom NYE 2026",
+    "date": "2026-12-31",
+    "url": "https://aladdin-theater.com/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "HAPPY NEW YEAR FROM THE 1905",
+    "date": "2026-12-31",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
