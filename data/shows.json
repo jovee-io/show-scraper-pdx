@@ -1,63 +1,7 @@
 [
   {
     "venue": "Aladdin Theater",
-    "title": "Vocalocity: We\u2019re Halfway There",
-    "date": "2026-11-16",
-    "url": "https://aladdin-theater.com/",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Ben Rice & The PDX Hustle",
-    "date": "2026-11-16",
-    "url": "https://www.albertastreetpub.com/music/2026/1/19/ben-rice-amp-the-pdx-hustle",
-    "time": ""
-  },
-  {
-    "venue": "Alberta Street Pub",
-    "title": "Comedy & Monday Night Football Hosted by  Hazel Dell Hottie",
-    "date": "2026-11-16",
-    "url": "https://www.albertastreetpub.com/music/2026/10/5/comedy-amp-monday-night-football-with-hazel-dell-hottie",
-    "time": ""
-  },
-  {
-    "venue": "Crystal Ballroom",
-    "title": "Turnover",
-    "date": "2026-11-16",
-    "url": "https://www.crystalballroompdx.com/events/277458-turnover/",
-    "time": ""
-  },
-  {
-    "venue": "Mississippi Studios",
-    "title": "An Evening with Fred Eaglesmith",
-    "date": "2026-11-16",
-    "url": "https://mississippistudios.com/",
-    "time": ""
-  },
-  {
-    "venue": "Polaris Hall",
-    "title": "Pretty Sick",
-    "date": "2026-11-16",
-    "url": "https://polarishall.com/",
-    "time": ""
-  },
-  {
-    "venue": "Show Bar",
-    "title": "PDX Songwriters Open Mic (FREE)",
-    "date": "2026-11-16",
-    "url": "https://revolutionhall.com/",
-    "time": ""
-  },
-  {
-    "venue": "The Showdown",
-    "title": "Square Dancing with Caller Andy Grummon and Probably Polly String Band / KARAOKE @ 9:30",
-    "date": "2026-11-16",
-    "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-caller-andy-grummon-and-probably-polly-string-band/",
-    "time": ""
-  },
-  {
-    "venue": "Aladdin Theater",
-    "title": "The Portland GrandSLAM",
+    "title": "SOLD OUT: The Portland GrandSLAM",
     "date": "2026-11-17",
     "url": "https://aladdin-theater.com/",
     "time": ""
@@ -574,6 +518,13 @@
     "time": ""
   },
   {
+    "venue": "The Showdown",
+    "title": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brooklyn Del and the Revelators",
+    "date": "2026-11-25",
+    "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-brooklyn-del-and-the-revelators/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "CLOSED FOR THE HOLIDAY",
     "date": "2026-11-26",
@@ -952,6 +903,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "El Vez",
+    "date": "2026-12-05",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
     "date": "2026-12-05",
@@ -1001,6 +959,13 @@
     "time": ""
   },
   {
+    "venue": "Mississippi Studios",
+    "title": "Wishy - Nature's Pill Tour",
+    "date": "2026-12-06",
+    "url": "https://mississippistudios.com/",
+    "time": ""
+  },
+  {
     "venue": "Revolution Hall",
     "title": "Choir! Choir! Choir!",
     "date": "2026-12-06",
@@ -1040,6 +1005,13 @@
     "title": "Comedy & Monday Night Football Hosted by Hazel Dell Hottie",
     "date": "2026-12-07",
     "url": "https://www.albertastreetpub.com/music/2026/10/12/comedy-amp-monday-night-football-with-hazel-dell-hottie-xz6bj-8jk49-fgdgh",
+    "time": ""
+  },
+  {
+    "venue": "Crystal Ballroom",
+    "title": "Cannons",
+    "date": "2026-12-07",
+    "url": "https://www.crystalballroompdx.com/events/279127-cannons/",
     "time": ""
   },
   {
@@ -1344,6 +1316,13 @@
     "time": ""
   },
   {
+    "venue": "Show Bar",
+    "title": "An Evening with Patterson Hood (of Drive-By Truckers)",
+    "date": "2026-12-20",
+    "url": "https://revolutionhall.com/",
+    "time": ""
+  },
+  {
     "venue": "The 1905",
     "title": "Mel Brown B3 Organ Group",
     "date": "2026-12-20",
@@ -1424,6 +1403,13 @@
     "venue": "The 1905",
     "title": "HAPPY NEW YEAR FROM THE 1905",
     "date": "2026-12-31",
+    "url": "https://www.the1905jazz.club/",
+    "time": ""
+  },
+  {
+    "venue": "The 1905",
+    "title": "CLOSED ON NEW YEAR'S DAY",
+    "date": "2027-01-01",
     "url": "https://www.the1905jazz.club/",
     "time": ""
   }
